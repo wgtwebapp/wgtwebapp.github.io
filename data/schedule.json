@@ -978,7 +978,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-06",
       "startTime": "18:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "223cb423bf40e593da6202dcb03fea41",
@@ -986,7 +986,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-06",
       "startTime": "19:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "e54d5ea26e878fe761418cdbf661879e",
@@ -994,7 +994,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-06",
       "startTime": "20:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7ff71980769a8bdcd59e6287fa7c7c6e",
@@ -1002,7 +1002,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-06",
       "startTime": "22:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4b40166d17128b3f4d36fe7685ca6874",
@@ -1010,7 +1010,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "00:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "5a1dd2d7e8ea7e0a19289039df77a6f7",
@@ -1018,7 +1018,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-06",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8d47cb07cc3ca74e9190eb5983e95a43",
@@ -1026,7 +1026,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-06",
       "startTime": "18:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "49c95d83af466f0626865a3fea20d86a",
@@ -1034,7 +1034,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-06",
       "startTime": "19:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8a7cb16b5f529b4e2e7139d82bd5ed7b",
@@ -1042,7 +1042,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-06",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "58b74c89a80e6cafa948e8c7d5ea096f",
@@ -1050,7 +1050,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-06",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "73143956f35cbb862cb4209b4ffdd1d7",
@@ -1058,7 +1058,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-06",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "efaee2a20b5c7811cbeefa1393b230a8",
@@ -1066,7 +1066,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-06",
       "startTime": "18:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "679fd19d65f3c9012c2565b7cf8c0094",
@@ -1074,7 +1074,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-06",
       "startTime": "19:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a0435ed149aaeb1f15dc1990afb0d916",
@@ -1082,7 +1082,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-06",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3be0c523cf175bf354a1eea5fc51c9a6",
@@ -1090,7 +1090,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-06",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "1608fdeaee6aa9d3ec2e70728852a05a",
@@ -1098,7 +1098,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "12:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "3a6f33c627f24f9cc4f80be679fc130e",
@@ -1106,7 +1106,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "024bc29b91bdd8740df63d5315f47732",
@@ -1114,7 +1114,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "13:45",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "0b9e4486243308cb2686bca28b1dfd8d",
@@ -1122,7 +1122,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "14:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3086200f26eb131cc57523ecdcfab5f0",
@@ -1130,7 +1130,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "15:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "61ec5291d989dca6f5b091a0c31c823c",
@@ -1138,7 +1138,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "15:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "dcfafdeedb6688e2f795630d12641fa2",
@@ -1146,7 +1146,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "16:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "f29577d7067d77369c8ead66bbc7f7ae",
@@ -1154,7 +1154,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "55add8a0cc6ff55121ca4547e31723c6",
@@ -1162,7 +1162,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "973cb5b3ded6502051f1b1088e5b5600",
@@ -1170,7 +1170,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "26b733db38e31671456ee65ac9ecaefc",
@@ -1178,7 +1178,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "18:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "cbb7b04874175525a5b5fd4f778e4197",
@@ -1186,7 +1186,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "19:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "1fd56d5edb2d24d7b2c25c4d38a50031",
@@ -1194,7 +1194,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "20:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "4f25528f91b07d6657778dc577ea8ef9",
@@ -1202,7 +1202,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "20:35",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "260296004cc69db80f4632afb0c28ffc",
@@ -1210,7 +1210,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "21:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "028ea262cb17339b5d0d13361eb3121d",
@@ -1218,7 +1218,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-06",
       "startTime": "22:35",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "214229e8e6fec8ec2c17dd52a21db888",
@@ -1226,7 +1226,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-06",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "18d7399562907d62f133d0a0bd7e1eff",
@@ -1234,7 +1234,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-06",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "1b64cb0c6a7cb6e1a4d9d44aa9f5af4b",
@@ -1242,7 +1242,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-06",
       "startTime": "22:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3e2434b34f0fc38f55eba7e2e5f04a63",
@@ -1250,7 +1250,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-06",
       "startTime": "23:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ff6c5074dbb287d625a4879ac0cca1aa",
@@ -1258,7 +1258,7 @@
       "locationId": "16bdce7af743ea1b04aef7d4dcefecd0",
       "date": "2025-06-06",
       "startTime": "23:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "916d22f77002cba8a6fc7828e69171ec",
@@ -1266,7 +1266,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-06",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "48028a3af7616021b552c05d4046bd54",
@@ -1274,7 +1274,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-06",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f447074038e5d2ea039116af013e7ed5",
@@ -1282,7 +1282,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-06",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "d00436095816fa5d20de4ea834455a7d",
@@ -1290,7 +1290,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-06",
       "startTime": "20:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "33858517412358d91f626f7e47119c3c",
@@ -1298,7 +1298,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-06",
       "startTime": "22:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "2b8a1e2ae3dea335023ca17c1bc77f96",
@@ -1306,7 +1306,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-06",
       "startTime": "17:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "fccc5a0f7580c5e361f2724c20defd4f",
@@ -1314,7 +1314,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-06",
       "startTime": "18:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "6d38392d53e71b8b4a437b18ec6365f7",
@@ -1322,7 +1322,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-06",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f3b21207cdaf08255de167d6376a43aa",
@@ -1330,7 +1330,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-06",
       "startTime": "21:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3a689e82c6972b5a9db27ea7dd0d0b99",
@@ -1338,7 +1338,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-06",
       "startTime": "22:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ff2c0b9103494302c70b376eab98530b",
@@ -1346,7 +1346,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-06",
       "startTime": "19:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0bb557aad6b1785872aac45ebeb5c691",
@@ -1354,7 +1354,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-06",
       "startTime": "21:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "09e4da7cde63daf7a05df91e2f250a1a",
@@ -1362,7 +1362,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-06",
       "startTime": "18:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "1094f2336ad8fc5e5aa86d6852f22e5e",
@@ -1370,7 +1370,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-06",
       "startTime": "20:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f8701bcdfd872881dab534c5d88e9060",
@@ -1378,7 +1378,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-06",
       "startTime": "23:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "12307bd563d621251f0123d49e50a740",
@@ -1386,7 +1386,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "600e2f1420f885726541c640f80419bc",
@@ -1394,7 +1394,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "14:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "78a7f58eb06ec9aaaee2427c0512fe8d",
@@ -1402,7 +1402,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "15:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "68dce3d09020fcab87ce283161d11dcb",
@@ -1410,7 +1410,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "16:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "58d34e4918150687575ea36128455320",
@@ -1418,7 +1418,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "ff291129f57ad9ad0478d746535d7aff",
@@ -1426,7 +1426,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "cb4405fb7a91514bb78f9a5b36fc8fc0",
@@ -1434,7 +1434,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "19:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "869d8f6740f6b69f34198fdc1ce5bd84",
@@ -1442,7 +1442,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "20:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "0f6b3ab40304b3728cbc08b70fd90b24",
@@ -1450,7 +1450,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-06",
       "startTime": "21:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "4927060288582af3dbaa111fc76a1f5d",
@@ -1458,7 +1458,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "16:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "c589e9992865a71ddfc8c352883b658b",
@@ -1466,7 +1466,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "17:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "85f963fe371148bcea0663b5b6368df1",
@@ -1474,7 +1474,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "18:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "b953f24578fd542dec8727b53f2eeb6b",
@@ -1482,7 +1482,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "20:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7195d3458018271a301be0b02dc0f2ee",
@@ -1490,7 +1490,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "21:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "cebea07bd57ae3ef4a5799bec181a51d",
@@ -1498,7 +1498,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-07",
       "startTime": "23:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9d2106d8885f51f1863a0566e9216aff",
@@ -1506,7 +1506,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-07",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "e7e81d0c182dd0f91d6c016fbfe18f92",
@@ -1514,7 +1514,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-07",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a2a8759e01a43f78aaa013859e11273e",
@@ -1522,7 +1522,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-07",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4e180394c0b4b3add778d587fed12856",
@@ -1530,7 +1530,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-07",
       "startTime": "20:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7cfe86b5f1265be2fa9e98ff3f6fcb15",
@@ -1538,7 +1538,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-07",
       "startTime": "22:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "c0339f4f81a167b01e471d6d8f4ee42a",
@@ -1546,7 +1546,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-07",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8734f87441904fa5764755d2e821b7f8",
@@ -1554,7 +1554,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-07",
       "startTime": "18:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3a76c8859dbb16586719efd277a771d3",
@@ -1562,7 +1562,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-07",
       "startTime": "19:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "99a65014e7990df5988e1773883b0ef8",
@@ -1570,7 +1570,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-07",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7b26cd047a0f94a21f501c20ac4f5447",
@@ -1578,7 +1578,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-07",
       "startTime": "22:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3ac7ea34821d16227ed5c8b8daa87053",
@@ -1586,7 +1586,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "12:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "50ad9df39e3fdaafc5331c63b9a2454a",
@@ -1594,7 +1594,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "3381166f043242082d16ea9273e575d4",
@@ -1602,7 +1602,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "14:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0abed1b49872bfc54e576acd113fb7bf",
@@ -1610,7 +1610,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "15:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3810df728012795db652bd7c53a89037",
@@ -1618,7 +1618,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "15:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "f28e39eb94d6a38b6de3c51caeaaac1c",
@@ -1626,7 +1626,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "c7436b2a36563c9cc4724a67b9c31637",
@@ -1634,7 +1634,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a392328130fb4244216377bc6955b228",
@@ -1642,7 +1642,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "b017c913f57f72294043c238bf464498",
@@ -1650,7 +1650,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "18:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ff108b0670712660516412857640d5a3",
@@ -1658,7 +1658,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "19:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "84cba8634b93dd70144263d99d035245",
@@ -1666,7 +1666,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "20:05",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3d26e1ad463803a1b7b1b7a026321908",
@@ -1674,7 +1674,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "21:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "39d67730b1525dd490a900e09c84cca8",
@@ -1682,7 +1682,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "21:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7606aeafb3c59d716e2a1b9dacd2abc3",
@@ -1690,7 +1690,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-07",
       "startTime": "23:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "fca924979b3cb73d6d8e723e5984cbb2",
@@ -1698,7 +1698,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-07",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "2dc5cff4e795915114eeb5a450a39405",
@@ -1706,7 +1706,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-07",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "357b0b684da41263cdcaa680c10a4ca2",
@@ -1714,7 +1714,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-07",
       "startTime": "22:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "24a685182555452070220a325db33d09",
@@ -1722,7 +1722,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-07",
       "startTime": "23:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "cad400cc13f0544abd6e0be833dae664",
@@ -1730,7 +1730,7 @@
       "locationId": "ddc89946f8e5b850cd1a5742406c6c87",
       "date": "2025-06-07",
       "startTime": "17:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "828c1b518cdc57d11d723da431b38261",
@@ -1738,7 +1738,7 @@
       "locationId": "ddc89946f8e5b850cd1a5742406c6c87",
       "date": "2025-06-07",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "cbddaeb656547c48491e5b6d8a45915c",
@@ -1746,7 +1746,7 @@
       "locationId": "ddc89946f8e5b850cd1a5742406c6c87",
       "date": "2025-06-07",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "42620b3ef9ee7be645c8cacb757aa7d8",
@@ -1754,7 +1754,7 @@
       "locationId": "16bdce7af743ea1b04aef7d4dcefecd0",
       "date": "2025-06-07",
       "startTime": "16:25",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "04c510699800d8ae28759c2e9fb9ac53",
@@ -1762,7 +1762,7 @@
       "locationId": "16bdce7af743ea1b04aef7d4dcefecd0",
       "date": "2025-06-07",
       "startTime": "18:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "dffd1c4ec182170f2a30a4d21d7b7ade",
@@ -1770,7 +1770,7 @@
       "locationId": "16bdce7af743ea1b04aef7d4dcefecd0",
       "date": "2025-06-07",
       "startTime": "21:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "83e1487810bea325ef78c0b857b1cbe2",
@@ -1778,7 +1778,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-07",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "cd071d4d24ca41dd7e680395fa36d4bf",
@@ -1786,7 +1786,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-07",
       "startTime": "18:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "2b51157481a04a96638e33d5b021f836",
@@ -1794,7 +1794,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-07",
       "startTime": "19:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4712a33456403bc1b1532749cf565315",
@@ -1802,7 +1802,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-07",
       "startTime": "21:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3bf6e321d12f0e7b25a3caebf2cd9bd1",
@@ -1810,7 +1810,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-07",
       "startTime": "22:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "e806dda49f1245a253e73272f5d4f5c5",
@@ -1818,7 +1818,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-07",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "695bc942a613a77e901ebbb5d8129263",
@@ -1826,7 +1826,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-07",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8faee2686d50b4b101ca226c9ee609a0",
@@ -1834,7 +1834,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-07",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f55c3fa85c6c769c43626572f1577cb6",
@@ -1842,7 +1842,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-07",
       "startTime": "20:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "cce122f9118c115019c5c34bfa52fcf9",
@@ -1850,7 +1850,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-07",
       "startTime": "22:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9f7ba8b85d1bafd259244704f2616318",
@@ -1858,7 +1858,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-07",
       "startTime": "16:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "e5b73a2ea126564ecc979e2a2fb5380a",
@@ -1866,7 +1866,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "f77f0617a0f76251fb37aed0f0ef0a5e",
@@ -1874,7 +1874,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "14:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "275e31ae26cce88d216973180baec2cf",
@@ -1882,7 +1882,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "15:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "42515e3d5c875353987a31ef924c06bf",
@@ -1890,7 +1890,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "16:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "b624cf9ba3cf9dcf9cfb4c4ffafb2b00",
@@ -1898,7 +1898,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "023f3eeecaea9caad6dca06681c98ad6",
@@ -1906,7 +1906,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "e6d40874918192f346344fbc439c818f",
@@ -1914,7 +1914,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "19:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "f10053db62be841f3b483852bdcdef95",
@@ -1922,7 +1922,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "20:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "918f76fb7ffe159c8834c6ab9f7c994a",
@@ -1930,7 +1930,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-07",
       "startTime": "21:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "d6757c30bbb0ae44172fd9ce3f7c11a4",
@@ -1938,7 +1938,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-08",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "64a285336f4b6f806e9af22c9fa6dbf8",
@@ -1946,7 +1946,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-08",
       "startTime": "18:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0dd214fbd749817825a3cb367f29a10e",
@@ -1954,7 +1954,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-08",
       "startTime": "19:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4d51a18497a708b984eaaca10f1e0beb",
@@ -1962,7 +1962,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-08",
       "startTime": "21:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9893f20619df84c4f23c362a8b65d17d",
@@ -1970,7 +1970,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-08",
       "startTime": "23:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0fc814f0700dba55699e1f0112ac6e90",
@@ -1978,7 +1978,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-09",
       "startTime": "01:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "fd419896bc9a3870fc76d9a6e4168e8a",
@@ -1986,7 +1986,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-08",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "766ee370d16fd1a2657a1b6fbb396ad6",
@@ -1994,7 +1994,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-08",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "31fc4a48abb60acb23ae52aecbdf0ed8",
@@ -2002,7 +2002,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-08",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0af0d4dadb3ff1be0569bce90e70b484",
@@ -2010,7 +2010,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-08",
       "startTime": "20:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "27a9c3494c08a05a7900252b2ba0332a",
@@ -2018,7 +2018,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-08",
       "startTime": "22:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8032ed4621263ff2a1048df36791ed1d",
@@ -2026,7 +2026,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-08",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "c76f216ca4c6e092d8d0a9cc395993e4",
@@ -2034,7 +2034,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-08",
       "startTime": "18:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "6fbcb5dd0dbf8c73f1ee55e1f648b73b",
@@ -2042,7 +2042,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-08",
       "startTime": "19:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "d7cf1f6dbca412b581718242c318c7aa",
@@ -2050,7 +2050,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-08",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a18ad8484197bc24c97d8e2f1d83bef3",
@@ -2058,7 +2058,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-08",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "87c1d6e6292e3179c6d6521d470364aa",
@@ -2066,7 +2066,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "12:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "5e3f5571d21ff41edcd2378bf8373264",
@@ -2074,7 +2074,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "de8eda7439188f2e4300c79401aa82c2",
@@ -2082,7 +2082,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "14:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3d359e525ab67f7c73c2f5fc70a62fb2",
@@ -2090,7 +2090,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "14:15",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "388993507ae3eeaf2a9e57c0153ad923",
@@ -2098,7 +2098,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "15:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "f4e5cb610b83e9a21ffc28d7f79af065",
@@ -2106,7 +2106,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "15:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9aa2c0d2633275315f480623603dd6aa",
@@ -2114,7 +2114,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "16:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "3836e315d3f9716ff8595c02d15432f1",
@@ -2122,7 +2122,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "45866cf87d9dcbc5d928a748b86dec97",
@@ -2130,7 +2130,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "17:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "91de5fa2eeaeb27d357cf3b786db48f1",
@@ -2138,7 +2138,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "87a5f4f560b1698587b9c286c3d842b4",
@@ -2146,7 +2146,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "19:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "c6cb58f55ee7ddecec0648634fb18f24",
@@ -2154,7 +2154,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "19:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a4eaa382d73e22568d2ebdabf16a88fb",
@@ -2162,7 +2162,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "20:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "82c257c9b9e0f190cdd49115c74134f5",
@@ -2170,7 +2170,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "21:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "89598f4738c0096ec5821e6a4e0c75ce",
@@ -2178,7 +2178,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "21:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7cd79164efb584a9cb0c1f8a343255c9",
@@ -2186,7 +2186,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-08",
       "startTime": "23:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "fb872007dc5e6333361bffc1ed7ce439",
@@ -2194,7 +2194,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-08",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ad73643b60045f28dbd4212b2604b974",
@@ -2202,7 +2202,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-08",
       "startTime": "21:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ff74ccb107eb7109819180985737ed7e",
@@ -2210,7 +2210,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-08",
       "startTime": "22:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "c0e770f700401a56ec4ad23c313ed859",
@@ -2218,7 +2218,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-08",
       "startTime": "23:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "29d128d5e9f2cfc408f0bfe6cad09a66",
@@ -2226,7 +2226,7 @@
       "locationId": "ddc89946f8e5b850cd1a5742406c6c87",
       "date": "2025-06-08",
       "startTime": "17:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8aeafdcb26298fa1f3ded30b8dd409b7",
@@ -2234,7 +2234,7 @@
       "locationId": "ddc89946f8e5b850cd1a5742406c6c87",
       "date": "2025-06-08",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "fce9729b5b9f207c84c5a5a69aca3814",
@@ -2242,7 +2242,7 @@
       "locationId": "ddc89946f8e5b850cd1a5742406c6c87",
       "date": "2025-06-08",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "5cb480d8bc1a9f87348b49a570ba952e",
@@ -2250,7 +2250,7 @@
       "locationId": "16bdce7af743ea1b04aef7d4dcefecd0",
       "date": "2025-06-08",
       "startTime": "18:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "c0cd3dfa575345baf558a201baedc73e",
@@ -2258,7 +2258,7 @@
       "locationId": "16bdce7af743ea1b04aef7d4dcefecd0",
       "date": "2025-06-08",
       "startTime": "21:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9ae6c0b77e3813f7740c6f481754d034",
@@ -2266,7 +2266,7 @@
       "locationId": "ee531432311a801a59d6a2cef8c1f6fc",
       "date": "2025-06-08",
       "startTime": "16:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a7c27e6752056c66b6c1633a8044cf4d",
@@ -2274,7 +2274,7 @@
       "locationId": "ee531432311a801a59d6a2cef8c1f6fc",
       "date": "2025-06-08",
       "startTime": "18:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f71425de88692218b55c9d9d79e4df32",
@@ -2282,7 +2282,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-08",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "35c8533deb024ec448a379d01b25eb54",
@@ -2290,7 +2290,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-08",
       "startTime": "18:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9218234ede994ff826f89ac44ba8053c",
@@ -2298,7 +2298,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-08",
       "startTime": "19:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "41c180fd4368d7d25e2a01ab3f9de165",
@@ -2306,7 +2306,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-08",
       "startTime": "21:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "d9d785deef2a7e7d3e7f86220eead1ae",
@@ -2314,7 +2314,7 @@
       "locationId": "9c3e9e09a83273d69f49c4c39006941c",
       "date": "2025-06-08",
       "startTime": "22:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "58aa9e88066637f364e116a4c76fa821",
@@ -2322,7 +2322,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-08",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "769dca181a72a908359afa19e698f2ef",
@@ -2330,7 +2330,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-08",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "783d2d59c3eca3d208d39d66913b86a9",
@@ -2338,7 +2338,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-08",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8e6aa982828f5bea31bd1fd3acc24fd4",
@@ -2346,7 +2346,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-08",
       "startTime": "20:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "bbd68af0c3e541910c13e20dda66114e",
@@ -2354,7 +2354,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-08",
       "startTime": "22:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0e953feadf7976f71046c8563adca0f7",
@@ -2362,7 +2362,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-08",
       "startTime": "16:35",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "75d1f77c950dc3a6d489917c0292b8c5",
@@ -2370,7 +2370,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-08",
       "startTime": "18:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9bb5c6dbaf75750afa5b7e4d27691354",
@@ -2378,7 +2378,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-08",
       "startTime": "21:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a76a211866b87ee38ca5ac3743804472",
@@ -2386,7 +2386,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-08",
       "startTime": "15:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "2a26ca1ad0da87c3a32d66bb13d1dd53",
@@ -2394,7 +2394,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-08",
       "startTime": "17:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "8ddfa1dcb9d530996d689ca81b95f1c3",
@@ -2402,7 +2402,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-08",
       "startTime": "19:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "af5ae856fba3bb0a81363e20f94a0c1f",
@@ -2410,7 +2410,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-08",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ed8f22888767547d3637663cee022fa3",
@@ -2418,7 +2418,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "f931b173ee759ce789b6320ba024a6da",
@@ -2426,7 +2426,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "14:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "66720a1f1819b12c59d8d05fbbdf6ba7",
@@ -2434,7 +2434,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "15:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "6438a289e787fc66bd2e64cd77788a78",
@@ -2442,7 +2442,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "16:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "01434d00f3b2a7bcc03114b3bef80fa8",
@@ -2450,7 +2450,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "8a274a27af495094e53b84928472c782",
@@ -2458,7 +2458,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "c479e8c5e7bfe1f9676b015c0c9c9298",
@@ -2466,7 +2466,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "19:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "a20b2575157068536b2b3efc47ec578d",
@@ -2474,7 +2474,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-08",
       "startTime": "21:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "9ae651f4b0cf691a89daaf435731b05a",
@@ -2482,7 +2482,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-09",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f263babe8bdcdcc554d034f0935c9d23",
@@ -2490,7 +2490,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-09",
       "startTime": "18:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "755b2ff0bf1d551ed8a1f9eea9f87c92",
@@ -2498,7 +2498,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-09",
       "startTime": "19:55",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4742182423a216588a8532fca3776f06",
@@ -2506,7 +2506,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-09",
       "startTime": "21:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ca05d2f91c84434279b59cc02d95b5bc",
@@ -2514,7 +2514,7 @@
       "locationId": "59c80748f493ceecd0d76b57ebe2de2e",
       "date": "2025-06-09",
       "startTime": "22:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "77d17315493cb817bac27a4a54917cd3",
@@ -2522,7 +2522,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-09",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ae612c46d36c45642b4d7606d4f2c6f4",
@@ -2530,7 +2530,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-09",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "7a9b20d20914bd59993fbfda005e2cfa",
@@ -2538,7 +2538,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-09",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ba87c555662eaefaea62f764c065e66c",
@@ -2546,7 +2546,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-09",
       "startTime": "20:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "32492cab49648026b81b6b200e31ae6c",
@@ -2554,7 +2554,7 @@
       "locationId": "25943ede1bfc2531bd6a8814bbb6fd57",
       "date": "2025-06-09",
       "startTime": "22:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "1258c178c5d8413a8f52ee0ad02d5d8a",
@@ -2562,7 +2562,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-09",
       "startTime": "17:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "98e992da482a44e69ef895c04c010d7a",
@@ -2570,7 +2570,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-09",
       "startTime": "18:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "16718a6b6edaa2f8d8752e34e8a688cd",
@@ -2578,7 +2578,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-09",
       "startTime": "19:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "2056bedea54ae7a386ef9313156be57c",
@@ -2586,7 +2586,7 @@
       "locationId": "ce206d740f859a7a2e691c7e8a2c1888",
       "date": "2025-06-09",
       "startTime": "21:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "a13da505bded7b52dde19e83afc5beb4",
@@ -2594,7 +2594,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "12:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "05673fb7b19da9daf81208f18141275e",
@@ -2602,7 +2602,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "432516c514b270d5b7526790a3b628bb",
@@ -2610,7 +2610,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "14:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "930de5e21ce5895dc40106648c18a366",
@@ -2618,7 +2618,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "14:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "d487739b6d8cba7aeabf90f3cf21e2eb",
@@ -2626,7 +2626,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "15:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "c910bce23839818099d0b0867b6ee53c",
@@ -2634,7 +2634,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "15:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "b0949b762a87cd16efb47b26c1d18924",
@@ -2642,7 +2642,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "16:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "2803f51993e8e175f36a805d65750bcf",
@@ -2650,7 +2650,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "17:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "7e1c79db147fdaeab39ef3cce2faac24",
@@ -2658,7 +2658,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "17:20",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "3c3ed833281904786ec454c147f61395",
@@ -2666,7 +2666,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "18:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "c087cef2c69ac3bf85b10a2f6adf0236",
@@ -2674,7 +2674,7 @@
       "locationId": "a4fa7bae7434338c5143943b5e48efb4",
       "date": "2025-06-09",
       "startTime": "19:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ac6fba3313142062a3ad8a6b733fda1c",
@@ -2682,7 +2682,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-09",
       "startTime": "19:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4694c6cc30a5abe2ad14db6977706db2",
@@ -2690,7 +2690,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-09",
       "startTime": "20:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0f6c1bcda052ab7f92cdb0b58d2606f8",
@@ -2698,7 +2698,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-09",
       "startTime": "21:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "4533f3af6bd03b289b12f356d76f02a5",
@@ -2706,7 +2706,7 @@
       "locationId": "4eb8b676e4c650a0f196b4ee47ae913d",
       "date": "2025-06-09",
       "startTime": "22:40",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "57834e408d90d507c9031dd557bbd84f",
@@ -2714,7 +2714,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-09",
       "startTime": "16:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "72c0f663e8469dd36187ee05c02711f6",
@@ -2722,7 +2722,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-09",
       "startTime": "17:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "214105d4ee381ab25d580b8ab986782e",
@@ -2730,7 +2730,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-09",
       "startTime": "19:10",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f1a1b6682b4107cbd0c1ee78f6567be9",
@@ -2738,7 +2738,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-09",
       "startTime": "20:50",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "62e06713685e2ea6a7ce1865a2fcff90",
@@ -2746,7 +2746,7 @@
       "locationId": "a4df6f5c5655dd443bdaa2ac28ec6105",
       "date": "2025-06-09",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "ddd690cb5451cff7e547d5e4836f5c8a",
@@ -2754,7 +2754,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-09",
       "startTime": "18:45",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "bdc8a8c6f2be0f8c988f70aa59582477",
@@ -2762,7 +2762,7 @@
       "locationId": "2a55f3eca82c7bfb32506bcf7d3c1561",
       "date": "2025-06-09",
       "startTime": "21:15",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "0a3fbec71ba466c145f8fa84691b39af",
@@ -2770,7 +2770,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-09",
       "startTime": "17:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "33a7b9a38a52358b41c370d3b0df9aff",
@@ -2778,7 +2778,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-09",
       "startTime": "20:00",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "9ed56cf151fe31ee6ea1205255832e3e",
@@ -2786,7 +2786,7 @@
       "locationId": "f9de432063e814bcb67ea92bf3713fdb",
       "date": "2025-06-09",
       "startTime": "22:30",
-      "category": "music"
+      "category": "band"
     },
     {
       "id": "f6baa044f9e96d217525af7ef2cadd3c",
@@ -2794,7 +2794,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "13:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "9ee33580186b803d2329d0671f04bdcc",
@@ -2802,7 +2802,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "14:00",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "bfddddc06cd1bb017baa149533265760",
@@ -2810,7 +2810,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "14:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "eaa2dfef45ea3cf34affb8cd5baec379",
@@ -2818,7 +2818,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "15:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "533374d09de26ab7964d313c1792cf0b",
@@ -2826,7 +2826,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "16:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "99b8f2366ab0a3e14975fc6d434b8b86",
@@ -2834,7 +2834,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "17:30",
-      "category": "non-music"
+      "category": "show"
     },
     {
       "id": "735f3494dc88826379ac350e08752fbc",
@@ -2842,7 +2842,7 @@
       "locationId": "5fe101bcd2edae028474473e52b9751f",
       "date": "2025-06-09",
       "startTime": "18:30",
-      "category": "non-music"
+      "category": "show"
     }
   ]
 }
