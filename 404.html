@@ -14,5 +14,26 @@
         You can find more information about the festival at https://www.wave-gotik-treffen.de/
         GitHub Pages SPA routing fallback is active. This ensures direct access to routes like /schedule, /favorites, etc. work correctly.
     </div>
+    <script type="text/javascript">
+        // Immediately redirect to index.html with the path encoded in the query string
+        // Handle both root domain and repository subdirectory cases
+        var pathSegmentsToKeep = 1;
+        
+        var l = window.location;
+        var pathArray = l.pathname.split('/').slice(1);
+        
+        // If we're in a GitHub Pages repository subdirectory, keep one more segment
+        if (pathArray.length > 0 && pathArray[0] && !pathArray[0].includes('.')) {
+            pathSegmentsToKeep = 2;
+        }
+        
+        l.replace(
+            l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+            l.pathname.split('/').slice(0, pathSegmentsToKeep).join('/') + '/?/' +
+            l.pathname.slice(1).split('/').slice(pathSegmentsToKeep - 1).join('/').replace(/&/g, '~and~') +
+            (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+            l.hash
+        );
+    </script>
 </body>
 </html> 
