@@ -3,27 +3,37 @@
     {
       "id": "1bb16e9cb667084ce5a86f766d19d6f8",
       "name": "Then Comes Silence",
-      "country": "S"
+      "country": "S",
+      "genre": "Gothic",
+      "description": "Rock band"
     },
     {
       "id": "e8aa179ac2877d19f2fb242445036f84",
       "name": "Nouvelle Vague",
-      "country": "F"
+      "country": "F",
+      "genre": "New Wave",
+      "description": "Band"
     },
     {
       "id": "e29debecede17e5c0e7f030e0cc2f9a1",
       "name": "Skynd",
-      "country": "AUS"
+      "country": "AUS",
+      "genre": "Industrial",
+      "description": "Rock band"
     },
     {
       "id": "d5a5ca83f36b3bb6d201d4b1974b0b1a",
       "name": "Alphaville",
-      "country": "D"
+      "country": "D",
+      "genre": "Synthpop",
+      "description": "Pop band"
     },
     {
       "id": "4781ac9273d3335229ca90e8e00a1c71",
       "name": "Kite",
-      "country": "S"
+      "country": "S",
+      "genre": "Synthpop",
+      "description": "Pop group"
     },
     {
       "id": "f470592b0d38e198b70915bb4a05156b",
@@ -48,7 +58,9 @@
     {
       "id": "689e88226f2d0027b679be5b3f1e421e",
       "name": "Labyrinth Ear",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Electronic",
+      "description": "Electronic duo"
     },
     {
       "id": "273c0de9551279a38a2ca50cb65c467c",
@@ -63,17 +75,23 @@
     {
       "id": "c126b3dbd774d72af2d51cdc0e832a07",
       "name": "Basszilla",
-      "country": "D"
+      "country": "D",
+      "genre": "Artist",
+      "description": "Musical artist"
     },
     {
       "id": "efee29522a06e60ec0a3e9c1e71f6ece",
       "name": "Eisenfunk",
-      "country": "D"
+      "country": "D",
+      "genre": "EBM",
+      "description": "Musical band"
     },
     {
       "id": "95f4ca3978931050c272981bd9116562",
       "name": "Noisuf-X",
-      "country": "D"
+      "country": "D",
+      "genre": "Artist",
+      "description": "Musical artist"
     },
     {
       "id": "b64884a0464d33488a31b8d3379eb3ff",
@@ -104,7 +122,9 @@
     {
       "id": "13d38c86b45c92bc250fbfb96f0ccc89",
       "name": "Mila Mar",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "c75d4ba31f3b96b5a6647cb58620d4a1",
@@ -113,7 +133,9 @@
     {
       "id": "6ea6abfda82464e53a03a0c8a5c354ed",
       "name": "Coppelius",
-      "country": "D"
+      "country": "D",
+      "genre": "Metal",
+      "description": "Band"
     },
     {
       "id": "c989e5e42db682b1a5d0fc1cdf630bf4",
@@ -126,7 +148,9 @@
     {
       "id": "97d64296e472cacc626e54fbc933e665",
       "name": "Nytt Land",
-      "country": "RUS"
+      "country": "RUS",
+      "genre": "Folk",
+      "description": "Band"
     },
     {
       "id": "47a9cfcd95a53206e25acb64767e205f",
@@ -170,7 +194,9 @@
     {
       "id": "3917863ed1d89e20870b84085b496dcf",
       "name": "Centhron",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "4254dcc83e96bacde8a5766fe39bd9c8",
@@ -180,7 +206,9 @@
     {
       "id": "98efcd93823c97c821944dd688824532",
       "name": "Grendel",
-      "country": "NL"
+      "country": "NL",
+      "genre": "Industrial",
+      "description": "Musical group"
     },
     {
       "id": "44afa63336e9bd9084203dde8d0e5885",
@@ -200,27 +228,36 @@
     {
       "id": "b632b28e8793a74f7bf9843a22fcc71d",
       "name": "And Also The Trees",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Rock",
+      "description": "Rock band"
     },
     {
       "id": "f4582ea6b69a2c42f8927db535631301",
       "name": "Zeraphine",
-      "country": "D"
+      "country": "D",
+      "genre": "Rock",
+      "description": "Rock band"
     },
     {
       "id": "68834fdcdff2a84a2844bd794aa9bcdf",
       "name": "Mars",
-      "country": "D"
+      "country": "D",
+      "genre": "Singer-Songwriter",
+      "description": "American singer-songwriter and musician"
     },
     {
       "id": "4f5b2d217998fcbe135f664591d83c25",
       "name": "Crooked Mouth",
-      "country": "LT"
+      "country": "LT",
+      "description": "Musical group"
     },
     {
       "id": "519cf9e3438d52571f78f01b0f3529d0",
       "name": "In Gowan Ring",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "c0d216fda086ca4b9cf002039c625b3d",
@@ -230,11 +267,14 @@
     {
       "id": "73cfe151905807dcc1fc76d1c84601e7",
       "name": "Ianva",
-      "country": "I"
+      "country": "I",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "b14bdd2dcfb3711634da80b079ef9168",
-      "name": "Nachtwindheim"
+      "name": "Nachtwindheim",
+      "description": "Musical group"
     },
     {
       "id": "c63728ab1da64d43804195dc96a86037",
@@ -255,12 +295,16 @@
     {
       "id": "403fd432400db9ae70a909058f0b47da",
       "name": "Absurd Minds",
-      "country": "D"
+      "country": "D",
+      "genre": "Electronic",
+      "description": "Musical group"
     },
     {
       "id": "b51699d453f963ae42af5b37563e3ab2",
       "name": "Spetsnaz",
-      "country": "S"
+      "country": "S",
+      "genre": "EBM",
+      "description": "Duo"
     },
     {
       "id": "aed81151bd80f98f71379581183fdf5f",
@@ -270,7 +314,9 @@
     {
       "id": "3e3d18638faab15973c1fae6b4841b3c",
       "name": "Funker Vogt",
-      "country": "D"
+      "country": "D",
+      "genre": "Industrial",
+      "description": "Musical band"
     },
     {
       "id": "5c838ad2cc7d6a122ec6c0644a48c0b4",
@@ -280,7 +326,9 @@
     {
       "id": "3a7e46261a591b3e65d1e7d0b2439b20",
       "name": "Combichrist",
-      "country": "USA/N"
+      "country": "USA/N",
+      "genre": "Industrial",
+      "description": "Band"
     },
     {
       "id": "7023ee05bfb61ec10f93e7a6d25a3ddd",
@@ -290,7 +338,9 @@
     {
       "id": "63848c14b9b0a3c6a36558a81f23e26f",
       "name": "In Mitra Medusa Inri",
-      "country": "D"
+      "country": "D",
+      "genre": "Gothic",
+      "description": "Band"
     },
     {
       "id": "9e49f792ce058f3b22b8671429266daa",
@@ -300,17 +350,22 @@
     {
       "id": "be5713e3c3ff9b7643f857135f5b0d8c",
       "name": "Whispers In The Shadow",
-      "country": "A"
+      "country": "A",
+      "genre": "Gothic",
+      "description": "Rock band"
     },
     {
       "id": "df256845c7212af8a6ef1a25d13ba7be",
       "name": "Janus",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "3b960988ad5d3db50fb9de3da640f998",
       "name": "QEK Junior",
-      "country": "D"
+      "country": "D",
+      "description": "Musical group"
     },
     {
       "id": "96301feb5097dbc5b165b2b09d1cdeab",
@@ -339,17 +394,22 @@
     {
       "id": "a71125a3c3914efa5ebb9b48ec7e8875",
       "name": "Totentanz Strumpfsockig",
-      "country": "D"
+      "country": "D",
+      "description": "Musical group"
     },
     {
       "id": "e0e52ea2de3d8cbadd16f357c46378cc",
       "name": "Arthuan Rebis",
-      "country": "I"
+      "country": "I",
+      "genre": "Artist",
+      "description": "Musical artist"
     },
     {
       "id": "0c60e0e953f8017c0888d91b25faca43",
       "name": "Vroudenspil",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "6602e038e68723e86aec013cf835a235",
@@ -379,7 +439,9 @@
     {
       "id": "573d1b1ab7ba8e60118e4a3331e4e6a1",
       "name": "Balduvian Bears",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Artist",
+      "description": "Musical artist"
     },
     {
       "id": "3d437671f4b2808ac39679246d25dda3",
@@ -399,12 +461,16 @@
     {
       "id": "7386bc0fc4b9453a37ebe39b6883b219",
       "name": "Kiss The Anus Of A Black Cat",
-      "country": "B"
+      "country": "B",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "a3a7c1b0c87edd3357abc7cbab368b88",
       "name": "Anke Hachfeld [Mila Mar]",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "096f9d5d65e2ffd0fcfd7a9b6b1494d8",
@@ -414,7 +480,9 @@
     {
       "id": "f849c957f2c50579eb4d85c468427be5",
       "name": "Tristwch Y Fenywod",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "f62a95c25171543afbf8de2764df5a1d",
@@ -439,7 +507,9 @@
     {
       "id": "03168ab0bd5ed4c8125c88ab3b02a8f2",
       "name": "In The Woods",
-      "country": "N"
+      "country": "N",
+      "genre": "Black Metal",
+      "description": "Band"
     },
     {
       "id": "a3e6115fc85d91de3878bacfd80dbea0",
@@ -478,17 +548,23 @@
     {
       "id": "41dff6cb80483b0c4408f47b9aa32875",
       "name": "Crimson Veil",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "eb62af7492157c676fb8fc9692e83447",
       "name": "Xandria",
-      "country": "D"
+      "country": "D",
+      "genre": "Symphonic Metal",
+      "description": "Band"
     },
     {
       "id": "534982fddde518d146945176d145cd12",
       "name": "Drab Majesty",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "143af26de9d57bf624771616318aaf7c",
@@ -513,7 +589,9 @@
     {
       "id": "af2cd7cf14f5b9165b0b074aea349a21",
       "name": "Beborn Beton",
-      "country": "D"
+      "country": "D",
+      "genre": "Synthpop",
+      "description": "Band"
     },
     {
       "id": "747677bc2da67e70ff5c1a900b35fbab",
@@ -528,7 +606,9 @@
     {
       "id": "1bbdbbc1be9859edf9ae00fa9f2da113",
       "name": "Icon Of Coil",
-      "country": "N"
+      "country": "N",
+      "genre": "Electronic",
+      "description": "Musical band"
     },
     {
       "id": "ba628e6419eeafc36eda4cb2ca6e3492",
@@ -548,7 +628,9 @@
     {
       "id": "d37dc1d462431c21ab36855d98590bf2",
       "name": "The Invincible Spirit",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "5d98c40222b27767c2639dd5d4f2cbbd",
@@ -572,12 +654,16 @@
     {
       "id": "d69462bef6601bb8d6e3ffda067399d9",
       "name": "Gernotshagen",
-      "country": "D"
+      "country": "D",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "f3d7662a9107de0635f647b83ae55566",
       "name": "Finntroll",
-      "country": "FIN"
+      "country": "FIN",
+      "genre": "Black Metal",
+      "description": "Band"
     },
     {
       "id": "f10f1ea9e6a334fe99c69ad0102908f9",
@@ -586,7 +672,9 @@
     {
       "id": "f65d3d938f139227d9f22ad3d3a473df",
       "name": "Kalandra",
-      "country": "N/S"
+      "country": "N/S",
+      "genre": "Musician",
+      "description": "Czech musician"
     },
     {
       "id": "281a836af1e09e8b25fdd84c5a882954",
@@ -616,7 +704,9 @@
     {
       "id": "02e2007a30a2439074c584e125328e23",
       "name": "Soror Dolorosa",
-      "country": "F"
+      "country": "F",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "1d4042750dd8d231fdc0d39ce58f664c",
@@ -626,12 +716,16 @@
     {
       "id": "8fbb28f1334219a3ac918273f7690c4e",
       "name": "Phil Shoenfelt & Southern Cross",
-      "country": "UK/CZ"
+      "country": "UK/CZ",
+      "genre": "Musician",
+      "description": "English musician and author"
     },
     {
       "id": "a277e254800234eeb726a345de2b4e5f",
       "name": "Saigon Blue Rain",
-      "country": "F"
+      "country": "F",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "9945003528c4ef2ca61e3cea99bb2250",
@@ -646,7 +740,9 @@
     {
       "id": "92a2a0896f3ef8ba4ce2368a23836f10",
       "name": "Jakuzi",
-      "country": "TR"
+      "country": "TR",
+      "genre": "Synthpop",
+      "description": "Band"
     },
     {
       "id": "88a9444a8827772b59b4ca7f61cb88e6",
@@ -656,12 +752,16 @@
     {
       "id": "1ef78d40643f4e530d8742462c69449e",
       "name": "Light Asylum",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Darkwave",
+      "description": "Musical band"
     },
     {
       "id": "23bcc024a0a6c53546d6fdd25b1673ee",
       "name": "Linea Aspera",
-      "country": "AUS/UK"
+      "country": "AUS/UK",
+      "genre": "Electronic",
+      "description": "Electronic duo"
     },
     {
       "id": "023699fca54ef93f1d3be05bb9a9fa7d",
@@ -681,7 +781,9 @@
     {
       "id": "9dc73fe924bb17caae376ec76afa5d0d",
       "name": "Rhys Fulber",
-      "country": "CDN"
+      "country": "CDN",
+      "genre": "Electronic",
+      "description": "Canadian musician"
     },
     {
       "id": "db5c9ed3e471212d45cdd6c321066d60",
@@ -711,7 +813,9 @@
     {
       "id": "216f70178e7f3577a557612c606b5993",
       "name": "Darkways",
-      "country": "E"
+      "country": "E",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "f2ea9a7dfdcaaac59523b2babe7d018e",
@@ -721,7 +825,9 @@
     {
       "id": "b0ab75d3f09f8edf3579ea58aae3571b",
       "name": "This Cold Night",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "26d62c17c1bda3adecc4c5b136ac0318",
@@ -744,17 +850,23 @@
     {
       "id": "8227ff91b5086c88e66f991aa6f0371b",
       "name": "The 69 Eyes",
-      "country": "FIN"
+      "country": "FIN",
+      "genre": "Rock",
+      "description": "Rock band"
     },
     {
       "id": "98f5c5baf32215e003244fcf2cace66a",
       "name": "Camouflage",
-      "country": "D"
+      "country": "D",
+      "genre": "Synthpop",
+      "description": "Pop trio"
     },
     {
       "id": "191cfb6f9caecb6571a1782954e8205e",
       "name": "New Model Army",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Rock",
+      "description": "Rock band"
     },
     {
       "id": "510ddd5524ab16d583d8b7317a55f474",
@@ -764,12 +876,16 @@
     {
       "id": "1a1a2554ec1a79500fb68b972ba44ed6",
       "name": "Torul",
-      "country": "SLO"
+      "country": "SLO",
+      "genre": "Band",
+      "description": "Musical band"
     },
     {
       "id": "f0520a57e6e312d5917bfd2a3a943b35",
       "name": "Vomito Negro",
-      "country": "B"
+      "country": "B",
+      "genre": "Electronic",
+      "description": "Band"
     },
     {
       "id": "71c982b9a58f293b1b3778705e67574b",
@@ -779,12 +895,16 @@
     {
       "id": "e82f40d2f4df9dd006ff8557e0f85691",
       "name": "Orange Sector",
-      "country": "D"
+      "country": "D",
+      "genre": "EBM",
+      "description": "Band"
     },
     {
       "id": "2e8850d6645fff92c503e26b88ab61c3",
       "name": "A Cloud Of Ravens",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Rock",
+      "description": "Rock duo"
     },
     {
       "id": "87ba7b5c0de45056bb36cd27d80b072c",
@@ -799,7 +919,9 @@
     {
       "id": "bab198e4a30f6eeb50756bfbb0579227",
       "name": "The Membranes",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Post-Punk",
+      "description": "Band"
     },
     {
       "id": "54331b9b16e65e2658e391486720d69f",
@@ -823,12 +945,16 @@
     {
       "id": "259e1392c7248aa73739b0d44ed805a9",
       "name": "Letzte Instanz",
-      "country": "D"
+      "country": "D",
+      "genre": "Punk",
+      "description": "Rock band"
     },
     {
       "id": "ac47baa2169b8473568fe45652c24bf8",
       "name": "Deus Ex Lumina",
-      "country": "ARG/D"
+      "country": "ARG/D",
+      "genre": "Artist",
+      "description": "Musical artist"
     },
     {
       "id": "8ad41aa0f71854f2aee6b67300ccd420",
@@ -838,7 +964,8 @@
     {
       "id": "cc87aa9f484bf88cd9db2f9c8deb8916",
       "name": "Black Nail Cabaret",
-      "country": "H"
+      "country": "H",
+      "description": "Musical duo"
     },
     {
       "id": "3d09ea3d53516ab906a53ae0bb938943",
@@ -858,7 +985,9 @@
     {
       "id": "065266d69f062ec2f65000fbc443babb",
       "name": "Zombina And The Skeletones",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Punk",
+      "description": "Rock band"
     },
     {
       "id": "2369803b80bf00925dbfdae202d393e7",
@@ -868,7 +997,9 @@
     {
       "id": "ffc59bd768d00cc390ee33007833eb81",
       "name": "Nim Vind",
-      "country": "CDN"
+      "country": "CDN",
+      "genre": "Punk",
+      "description": "Musical band"
     },
     {
       "id": "ff332e46405212a70a15eb2e5b4037b4",
@@ -893,7 +1024,9 @@
     {
       "id": "1d518b7c2e383a766be63bf35fb3152d",
       "name": "Shortparis",
-      "country": "RUS"
+      "country": "RUS",
+      "genre": "Experimental",
+      "description": "Musical band"
     },
     {
       "id": "ab95492f5a66c1557125e384f2cee6bd",
