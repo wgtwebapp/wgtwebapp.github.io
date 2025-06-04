@@ -4,41 +4,42 @@
       "id": "1bb16e9cb667084ce5a86f766d19d6f8",
       "name": "Then Comes Silence",
       "country": "S",
-      "genre": "Gothic",
-      "description": "Rock band"
+      "genre": "Goth Rock",
+      "description": "A four piece band formed in 2012 in Stockholm, Sweden. Email: info@thencomessilence.com"
     },
     {
       "id": "e8aa179ac2877d19f2fb242445036f84",
       "name": "Nouvelle Vague",
       "country": "F",
-      "genre": "New Wave",
-      "description": "Band"
+      "genre": "Bossanova",
+      "description": "French band formed in 2003 by  and , specialising in jazzy Bossa nova cover versions of new wave songs sung by a female guest vocalist. The band decided to continue after the death of Libaux in 2021."
     },
     {
       "id": "e29debecede17e5c0e7f030e0cc2f9a1",
       "name": "Skynd",
       "country": "AUS",
       "genre": "Industrial",
-      "description": "Rock band"
+      "description": "Electronic/Industrial duo formed in 2018, focusing on criminals and their acts within their songs. Members: SKYND - Vocals FATHER - Instruments/Production"
     },
     {
       "id": "d5a5ca83f36b3bb6d201d4b1974b0b1a",
       "name": "Alphaville",
       "country": "D",
-      "genre": "Synthpop",
-      "description": "Pop band"
+      "genre": "Dance-pop",
+      "description": "Alphaville is a German synth-pop band centered around vocalist  (), formed in 1982 in Münster. Started out as a trio with Gold backed by synth players  and . At the end of '81, Gold and Lloyd (Frank would come in not long afterwards) took part in a concert with 5 other artists, as Nelson Community. Initially the band name was Forever Young, however, after a few months they changed the name inspired by 's film: Alphaville \"the city of the future\". Which, incidentally, represented even better their whole project. Mertens left the band in late 1984 and was replaced by  (), in early 1985. The band is still active today, playing new concerts and also promoting re-mastered re-releases of their first albums."
     },
     {
       "id": "4781ac9273d3335229ca90e8e00a1c71",
       "name": "Kite",
       "country": "S",
-      "genre": "Synthpop",
-      "description": "Pop group"
+      "genre": "Synth-pop",
+      "description": "Swedish synth pop band."
     },
     {
       "id": "f470592b0d38e198b70915bb4a05156b",
       "name": "Skelesys",
-      "country": "D"
+      "country": "D",
+      "genre": "New Wave"
     },
     {
       "id": "f74ee7f89540fcc53f4b12b82cc42025",
@@ -48,50 +49,56 @@
     {
       "id": "90928c6e169c17889b85fbe546457cf2",
       "name": "Selofan",
-      "country": "GR"
+      "country": "GR",
+      "genre": "Coldwave",
+      "description": "Electro-minimal duo from Athens, Greece. Selofan were formed in 2012 in Athens by Joanna and Dimitris. Today, they are numbered among the protagonists of the dark electronic music scene. At the beginning of their career, Selofan had been stamped as a minimal-synth act, but their style possesses an extraordinary variety. By combining different elements of electronic music, singing and storytelling in different languages, and presenting themselves in such a theatrical way that each live performance is emotionally overwhelming, they developed their own audiovisual mix. This has enabled Selofan to establish their own musical and aesthetical identity, which is underlined by the artwork accompanying their releases and their videos."
     },
     {
       "id": "84b0318f8f015ba67aff86c211d2fcd8",
       "name": "Rue Oberkampf",
-      "country": "D"
+      "country": "D",
+      "genre": "Darkwave"
     },
     {
       "id": "689e88226f2d0027b679be5b3f1e421e",
       "name": "Labyrinth Ear",
       "country": "UK",
-      "genre": "Electronic",
-      "description": "Electronic duo"
+      "genre": "Ambient",
+      "description": "UK electronic duo Emily Jacobs and Tom Evans"
     },
     {
       "id": "273c0de9551279a38a2ca50cb65c467c",
       "name": "Chainreactor",
-      "country": "D"
+      "country": "D",
+      "genre": "Industrial"
     },
     {
       "id": "bd7fbdd6d4b03e6bce080d78fc575a22",
       "name": "Antibody",
-      "country": "D"
+      "country": "D",
+      "genre": "Experimental",
+      "description": "Antibody, comprised of Ed Wilson, J-mz Robinson, and Charles Horn, was a short-lived project which existed between late 2001 and the middle of 2003. Formed in Christchurch, New Zealand, Antibody was originally Wilson's idea, created as a group project with which to extend his solo investigations of musical intuition and automatism. However, Robinson and Horn's contributions soon transformed the band into something more genuinely collaborative. Wilson's departure overseas in 2003 brought and end to the project."
     },
     {
       "id": "c126b3dbd774d72af2d51cdc0e832a07",
       "name": "Basszilla",
       "country": "D",
-      "genre": "Artist",
-      "description": "Musical artist"
+      "genre": "EBM",
+      "description": "Basszilla is an EDM/progressive house/complextro project. The Beast behind Basszilla is a french producer and DJ from Germany. Cyb3rella from Extize."
     },
     {
       "id": "efee29522a06e60ec0a3e9c1e71f6ece",
       "name": "Eisenfunk",
       "country": "D",
       "genre": "EBM",
-      "description": "Musical band"
+      "description": "Eisenfunk was founded by Michael Mayer in early 2006, joined by Arthur Stauder and Toni Schulz beginning of 2007. They disbanded in 2014, but reunited in 2024 and released a new album."
     },
     {
       "id": "95f4ca3978931050c272981bd9116562",
       "name": "Noisuf-X",
       "country": "D",
-      "genre": "Artist",
-      "description": "Musical artist"
+      "genre": "EBM",
+      "description": "Electronic side-project by German producer Jan Lehmkämper, featuring a mixture of Industrial, Power Noise, Aggrotech and Hard Techno. The project launched in 2005 with the debut '', but it was their follow up EP '' the following year, as well as the album '' in 2007, that really made them a household name on the EBM/TBM dancefloors (with the former peaking at number 3 in the German Alternative Charts). To date Noisuf-X have released 10 albums and is the most well known of all Jan's projects."
     },
     {
       "id": "b64884a0464d33488a31b8d3379eb3ff",
@@ -104,7 +111,8 @@
     {
       "id": "79dbf50acd5819a5d7102cb9100d3cbe",
       "name": "Totus Gaudeo",
-      "country": "D"
+      "country": "D",
+      "genre": "Folk, World, & Country"
     },
     {
       "id": "09a9318508da52652852638eacbf39b4",
@@ -113,7 +121,9 @@
     {
       "id": "4fe2356b10918b2cc29ba0ef7463a484",
       "name": "Mythemia",
-      "country": "D"
+      "country": "D",
+      "genre": "Folk Metal",
+      "description": "Der Wind singt vom Fernweh und die Sehnsucht ruft - Zeit für ein Abenteuer! „Auf ins Nimmerland!“ - Genau dorthin verschlägt es Mythemia mit ihrem dritten Album „Nimmerland“. Mit deutschen Texten erzählen sie Geschichten von Fernweh und dem Sehnen nach neuen, unentdeckten Welten. Dabei steht die Verknüpfung klassischer Instrumente mit eingängigem, drückendem Folkrock im Vordergrund. Mehrstimmiger Gesang komplettiert das Bild der Akustik-Rockband, die ihre Musik selbst als „Fantasy Folk Rock“ bezeichnet."
     },
     {
       "id": "0f3adc8652c99ef33b3f945e29a0ac60",
@@ -123,8 +133,8 @@
       "id": "13d38c86b45c92bc250fbfb96f0ccc89",
       "name": "Mila Mar",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Dream Pop, Ethno-pop",
+      "description": "Synth-pop / Ethereal / Darkwave / Downtempo band from Hamburg, Germany."
     },
     {
       "id": "c75d4ba31f3b96b5a6647cb58620d4a1",
@@ -134,8 +144,8 @@
       "id": "6ea6abfda82464e53a03a0c8a5c354ed",
       "name": "Coppelius",
       "country": "D",
-      "genre": "Metal",
-      "description": "Band"
+      "genre": "Goth Rock",
+      "description": "19th-century-folk-metal band from Berlin, Germany Line-up: Max Coppella - Vocals, Clarinet Herr Linus von Doppelschlag - Drums Graf Lindorf - Vocals, Cello Comte Caspar - Clarinet, Vocals Sissy Voss - Double Bass Bastille - Vocals, Drums"
     },
     {
       "id": "c989e5e42db682b1a5d0fc1cdf630bf4",
@@ -149,8 +159,8 @@
       "id": "97d64296e472cacc626e54fbc933e665",
       "name": "Nytt Land",
       "country": "RUS",
-      "genre": "Folk",
-      "description": "Band"
+      "genre": "Nordic, Folk",
+      "description": "Anatoly Pakhalenko (taglharpa, vocal, flute, programming samples) Natalya Pakhalenko (vocal, lyra, frame-drum) Vladimir Titkov (flutes, jew-harp) Sergey Silitcky (jew-harp, horn) Stanislav Mandrygin (drums) Having started as a folk-rock band in a remote Siberian province, NYTT LAND required less than a year to become one of the most prominent and successful Russian folk projects. Focused on ancient Scandinavia, the band rapidly evolved into an authentic music ensemble, thorough yet in the same time innovative. Their music is mostly based on the sources from Poetic Edda, performed on the original Old Islandic. Both male and female voices are used with regards to reflecting the old vocal techniques. Notably outstanding on the Russian scene and largely compared with the legendary Wardruna, NYTT LAND are unique in their devotion to the ritual Northern music and tradition that comes along with a great talent. Their almost reenacting approach, genuine native hand-crafted instruments and colossal enthusiasm help them to grasp the true spirit of ancient Northern music like no one in Eastern Europe has done before."
     },
     {
       "id": "47a9cfcd95a53206e25acb64767e205f",
@@ -159,22 +169,30 @@
     {
       "id": "cbc4fcab7a696e9e8eca061ce20f70bd",
       "name": "Incirrina",
-      "country": "GR"
+      "country": "GR",
+      "genre": "Darkwave",
+      "description": "Incirrina is a Greek band formed in September 2017 by George K. (synthesizers,samples, drum machine, vocals) and Irini T. (synthesizers,vocals).Their music combines elements of dark/minimal wave,electronic,ambient and experimental. They have been inspired by William Blake and they have set to music a selection of his poems."
     },
     {
       "id": "f091dc80f3499920c4ae7b263592d06d",
       "name": "Ships In The Night",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Dream Pop, Ethereal, Synth-pop",
+      "description": "Ships In The Night is an electrifying mix of haunting, dark electronic and ethereal, ambient lullabies. Alethea Leventhal's magnetic solo project pulls from dreams, memories and echoes from the outer world to paint an atmospheric landscape with sweeping waves of synths and kinetic beats."
     },
     {
       "id": "db83bbe4cffc2097fb1b83c23926c185",
       "name": "Corlyx",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Darkwave",
+      "description": "Corlyx originally from Los Angeles, now living between U.K.and Turin Italy has slowly evolved with each album they have released, pulling from 80’s Post-Punk, 90’s Grunge, and DarkWave. Currently the trio consists of singer/songwriter Caitlin Stokes, guitarist/producer Brandon Ashley, and bassist Davide Rocco."
     },
     {
       "id": "c641e02e5ddbe82589cbebbe9bb2ed03",
       "name": "Aux Animaux",
-      "country": "S"
+      "country": "S",
+      "genre": "Darkwave",
+      "description": "Hauntwave artist from Stockholm/Sweden with a soft spot for horror, mixing dark synth tunes with dystopic sounds and haunting vocals and theremin."
     },
     {
       "id": "4d32db1f0da7bc8aa8baa688424dee8b",
@@ -184,97 +202,111 @@
     {
       "id": "38c91565571c7eba657528a02d57affd",
       "name": "Ruined Conflict",
-      "country": "USA"
+      "country": "USA",
+      "genre": "EBM",
+      "description": "Formed in 2011, Ruined conflict strives on developing a unique style of alternative electronic and orchestrated symphonies that would allow them to release a diverse and dynamic sound that would separate the band from others. Influenced by Industrial Alternative rock and metal creating there first album would be challenging. The message is simple \" live for yourself not others \"."
     },
     {
       "id": "ee20998fd5da6460ec33d4c1dac0efd8",
       "name": "Cryo",
-      "country": "S"
+      "country": "S",
+      "genre": "House, Techno"
     },
     {
       "id": "3917863ed1d89e20870b84085b496dcf",
       "name": "Centhron",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "EBM",
+      "description": "Members are: Elmar Schmidt (vocals, synthies, programming, samples), Markus Vogler (bass), Sandra Schmidt (female vocals, synthies)"
     },
     {
       "id": "4254dcc83e96bacde8a5766fe39bd9c8",
       "name": "Intent:Outtake",
-      "country": "D"
+      "country": "D",
+      "genre": "Industrial",
+      "description": "Dark electro/futurepop duo from Leipzig, Germany. Members: Composing, keys, programming: Andreas Engleitner (formerly known from ) Lyrics and vocals: Bastian Polak (also known by his solo project )"
     },
     {
       "id": "98efcd93823c97c821944dd688824532",
       "name": "Grendel",
       "country": "NL",
-      "genre": "Industrial",
-      "description": "Musical group"
+      "genre": "Darkwave",
+      "description": "EBM/Industrial outfit, operating out of Glasgow, Scotland since the mid 2010's. Formed in 2000 by ."
     },
     {
       "id": "44afa63336e9bd9084203dde8d0e5885",
       "name": "Sweet Ermengarde",
-      "country": "D"
+      "country": "D",
+      "genre": "Goth Rock",
+      "description": "Gothic rock band from Germany."
     },
     {
       "id": "9dbb078f25499bc09b37bff3960edfc7",
       "name": "The Sweet Kill",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Goth Rock",
+      "description": "The Sweet Kill is the musical project of Pete Mills located in the USA. The music is influenced by darkwave, post-punk and goth rock."
     },
     {
       "id": "216bda76efae5a26d3fe46b08f288c17",
       "name": "The Nosferatu",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Hardcore",
+      "description": "Born in The Hague on the 16th of September 1973, Erwin van Kan started his career back in his infant-years. Jumping on a piano, smashing it, and then falling on a table with his head, leaving a nasty mark on his eyebrow! Maybe his Hardcore-style was already born? :) Around 1993, he began spinning music with a tape-recorder and some sort of turntable. Cutted, pasted, and recorded several mix-tapes during that time. After a couple of years he managed to build his own studio. He bought some equipment, like a small sampler, and he produced several tracks, not released on vinyl, but just for friends... Then, when he spinned as a DJ in a coffeeshop, he managed to produce a demo-tape which he gave to a friend, who had some connections in the record-business. Then he had the opportunity to release his first record : 'All that she wants' on Bünkor Beats-records. At that time he was booked at several small parties, and some of them were very underground. For some people in his country, they know wich underground-party we mean: The massive 'squat'-party, downtown The Hague! With lots of other DJ's like Virus, the english DJ Raw (not the mc), and many more... DJ Mystic (Nosferatu's first DJ-name) spinned for over 7 hours non-stop that night! After several years of working (more as a DJ, than a producer) he bought some new equipment and made a new demo. One day DJ Ruffneck was performing at a party, and Nosferatu gave his demo to him. Then his career really started; he got an appointment with P.v.Kerckhoven (Ruffneck) and Andrea v.d. Rhee from Cardiac Music bv. and he became part of a great recordcompany! 'Inspiration vibes', 'Dangerous Battle', and many more were made by the hand of Nosferatu. The name Nosferatu is a project name which  came up with for an early release on  together with Fred Henderson. The alias was later used as a project name by Van Kerckhoven and Erwin van Kan. The latter is now the solo user of the moniker. Because Van Kan has produced the bulk of the Nosferatu material."
     },
     {
       "id": "b632b28e8793a74f7bf9843a22fcc71d",
       "name": "And Also The Trees",
       "country": "UK",
-      "genre": "Rock",
-      "description": "Rock band"
+      "genre": "Coldwave",
+      "description": "And Also the Trees are an English post-punk band, formed in 1979 in Inkberrow, Worcestershire. Line-ups: Simon Huw Jones, vocals (1979-present) Justin Jones, guitar/keyboards/accordion/percussion/zither/xylophone (1979-present) Nick Havas, drums/percussion (1979-1997) Graham Havas, bass guitar (1979-1983) Steven Burrows, bass guitar/percussion/mellotron/trumpet (1983-2004) Mark Tibenham, keyboards (1990-1993) Emer Brizzolara, dulcimer/keyboards/melodica/guitar (1994-2015) Dale Hodgkinson, keyboards (1998) Paul Hill, drums/percussion/harmonica/glockenspiel (1998-present) Ian Jenkins, bass guitar/double bass (2004-2015) Grant Gordon, bass (2016-present) Colin Ozanne, clarinet/guitar/keyboards (2016-present)"
     },
     {
       "id": "f4582ea6b69a2c42f8927db535631301",
       "name": "Zeraphine",
       "country": "D",
-      "genre": "Rock",
-      "description": "Rock band"
+      "genre": "Goth Rock",
+      "description": "German gothic rock/dark wave band."
     },
     {
       "id": "68834fdcdff2a84a2844bd794aa9bcdf",
       "name": "Mars",
       "country": "D",
-      "genre": "Singer-Songwriter",
-      "description": "American singer-songwriter and musician"
+      "genre": "Post-Punk",
+      "description": "American experimental rock/noise rock band founded in 1975 in New York City by vocalist Sumner Crane and disbanded in 1978."
     },
     {
       "id": "4f5b2d217998fcbe135f664591d83c25",
       "name": "Crooked Mouth",
       "country": "LT",
-      "description": "Musical group"
+      "genre": "Experimental",
+      "description": "Neofolk and experimental music group formed by Ian Campbell in British Columbia, Canada in 2010. Emigrated to Lithuania in 2022."
     },
     {
       "id": "519cf9e3438d52571f78f01b0f3529d0",
       "name": "In Gowan Ring",
       "country": "USA",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Folk, World, & Country",
+      "description": "Predominantly the work of a single (and singular) individual known as B'eirth (\"Bee\" for short), In Gowan Ring, also a revolving collective of friends that frequently includes Lincoln Lysager, Michael Moynihan, (ex-Amber Asylum violinist) Annabel Lee, Jesse Winters and/or Anthony Snow."
     },
     {
       "id": "c0d216fda086ca4b9cf002039c625b3d",
       "name": "Death In Rome",
-      "country": "AQ"
+      "country": "AQ",
+      "genre": "Neofolk",
+      "description": "Death in Rome is a NeoFolk Group covering pop songs."
     },
     {
       "id": "73cfe151905807dcc1fc76d1c84601e7",
       "name": "Ianva",
       "country": "I",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Folk Rock, Neofolk, Prog Rock",
+      "description": "IANVA (pronounced \"ianua\" or \"ya-noo-ah\") is a folk noir project born in 2003 in Genova, Italy as the meeting of a group of musicians with different backgrounds. Members: Mercy - vocals, concept, lyrics/music Stefania T. D'Alterio - vocals, lyrics Fabio Carfagna - electric & acoustic guitars, music Francesco La Rosa - drums, percussions, programming Fabio Gremo - acoustic & classic guitars, music, arrangements Azoth - electric bass Giuseppe Spanò - piano (2003-2020) Luca Del Re - piano (2022-current) Davide La Rosa - accordion, percussions, guitar Gianluca Virdis - trumpet plus various guests..."
     },
     {
       "id": "b14bdd2dcfb3711634da80b079ef9168",
       "name": "Nachtwindheim",
-      "description": "Musical group"
+      "genre": "Folk, Folk Rock"
     },
     {
       "id": "c63728ab1da64d43804195dc96a86037",
@@ -296,27 +328,28 @@
       "id": "403fd432400db9ae70a909058f0b47da",
       "name": "Absurd Minds",
       "country": "D",
-      "genre": "Electronic",
-      "description": "Musical group"
+      "genre": "EBM",
+      "description": "German EBM band."
     },
     {
       "id": "b51699d453f963ae42af5b37563e3ab2",
       "name": "Spetsnaz",
       "country": "S",
-      "genre": "EBM",
-      "description": "Duo"
+      "genre": "Industrial",
+      "description": "EBM duo formed in Örebro, Sweden, in the autumn of 2001. Previous projects of the members include: Octoberland, Volvo 242, Destin Fragile, Lazer Stefanz, Wärk and PAF. Split up surprisingly in November 2006 (during their support tour for ). Spetsnaz is now back on track since the beginning of 2007."
     },
     {
       "id": "aed81151bd80f98f71379581183fdf5f",
       "name": "S.I.T.D.",
-      "country": "D"
+      "country": "D",
+      "genre": "Glam, Art Rock"
     },
     {
       "id": "3e3d18638faab15973c1fae6b4841b3c",
       "name": "Funker Vogt",
       "country": "D",
-      "genre": "Industrial",
-      "description": "Musical band"
+      "genre": "EBM",
+      "description": "Funker Vogt (German: ) is a German electronic music project with an aggressive style, formed by vocalist Jens Kästel and programmer Gerrit Thomas in 1995. Other members of the band are keyboardist/manager Bjorn Bottcher, live guitarist Frank Schweigert and lyricist Kai Schmidt. Frontman Jens Kaestel leaves band 1st of December 2013 and the band announce their retirement. The final show scheduled for the 30th of November 2013 in Berlin. Four years later in 2017 Funker Vogt reform with a new singer, Chris L. (Agonoize/The Sexorcist). Former members: Jens Kästel Björn Böttcher Frank Schweigert Kai Schmidt Thomas Kroll Sacha Korn"
     },
     {
       "id": "5c838ad2cc7d6a122ec6c0644a48c0b4",
@@ -327,65 +360,75 @@
       "id": "3a7e46261a591b3e65d1e7d0b2439b20",
       "name": "Combichrist",
       "country": "USA/N",
-      "genre": "Industrial",
-      "description": "Band"
+      "genre": "EBM",
+      "description": "Norwegian EBM/Electro band initially formed as a side project of  frontman  in 2003. Following the demise of that band, Combichrist became a full-time project. The band has played as a solo act, a duo, a trio, a four-, five-, and six-piece band. Over the years, the music has shifted towards Industrial band fusing Tech and Hard Rock/Metal. Line-up:  (lead vocals),  (guitar),  (guitar),  (drums),  (DJ)."
     },
     {
       "id": "7023ee05bfb61ec10f93e7a6d25a3ddd",
       "name": "Rabengott",
-      "country": "D"
+      "country": "D",
+      "genre": "EBM"
     },
     {
       "id": "63848c14b9b0a3c6a36558a81f23e26f",
       "name": "In Mitra Medusa Inri",
       "country": "D",
-      "genre": "Gothic",
-      "description": "Band"
+      "genre": "Coldwave"
     },
     {
       "id": "9e49f792ce058f3b22b8671429266daa",
       "name": "Schneewittchen Im November",
-      "country": "D"
+      "country": "D",
+      "genre": "Schlager, Ballad, Chanson, Political, Marches",
+      "description": "Schneewittchen Im November - Information from Discogs release database"
     },
     {
       "id": "be5713e3c3ff9b7643f857135f5b0d8c",
       "name": "Whispers In The Shadow",
       "country": "A",
-      "genre": "Gothic",
-      "description": "Rock band"
+      "genre": "Goth Rock",
+      "description": "Austrian gothic rock band, formed in 1996."
     },
     {
       "id": "df256845c7212af8a6ef1a25d13ba7be",
       "name": "Janus",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Gothic Metal, Classical",
+      "description": "German project lead by Dirk Riegert and Tobias Hahn, established in 1995. The name comes from Roman mythology, specifically the god Janus, who ruled over gates and doors. Under the name Rorschach they recorded their first demo \"Liebeslieder\" which has never been released."
     },
     {
       "id": "3b960988ad5d3db50fb9de3da640f998",
       "name": "QEK Junior",
       "country": "D",
-      "description": "Musical group"
+      "genre": "EBM"
     },
     {
       "id": "96301feb5097dbc5b165b2b09d1cdeab",
       "name": "Linear Movement",
-      "country": "B"
+      "country": "B",
+      "genre": "Minimal, New Wave, Synth-pop",
+      "description": "Linear Movement was a side-project of Peter Bonne between 1982 and 1984, next to his activities in Autumn and Twilight Ritual. Because of the difference in musical style, he decided this music should be part of a different project, which he baptized ‘Linear Movement’. Most of the tracks were solo experiments, but in some of them, he was joined by Peter Koutstaal (who also performed in Autumn), and by Lieve Van Steerteghem, who took the vocal part in some tracks. Linear Movement never made a tape release, but many tracks appeared on compilation projects throughout the world. The Micrart releases of Linear Movement are limited to a single C30-release MC 8208 ‘Pulse Music’, which contained early material by Peter solo, and a major contribution to the Line Compilation MC 8340. Peter wanted to experiment with more poppy compositions as Twilight Ritual and Autumn were more experimental. This direction was already taken when Autumn shifted from pure cosmic electronic music-based inspiration towards song-based compositions (refer to MC 8204 Not Afraid To Die). However, this mixture of experiments needed guidance and a certain separation. The poppy songs now resided under Linear Movement. It was a boiling pot and learning curve for Peter's later work with A Split-Second. Linear Movement is still performing live."
     },
     {
       "id": "a5002975613f1711b1e91f046d314f09",
       "name": "Sixth June",
-      "country": "D/SRB"
+      "country": "D/SRB",
+      "genre": "Electro, Synth-pop",
+      "description": "Sixth June is a duo from Berlin with origins in Belgrade, formed in December 2007 by visual artist Laslo Antal, and actress Lidija Andonov. Having two people in the band who are closely connected to film, theatre and video art enables Sixth June to be recognizable not only by the music, but the visuals as well."
     },
     {
       "id": "8b6d6006ec50bab3ab16f803204aa540",
       "name": "Void Vision",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Darkwave",
+      "description": "Void Vision is a Philadelphia-based electronic project helmed by Shari Vari. It began around 2009 at a time when a wave of synth-revivalists were materializing, but the quality of the songwriting and intense vocals set the band apart from the pack. In a rare instance, Void Vision has managed to combine vintage dance elements with melodic structures, haunting melancholy, and lyrics that have a palpable soul. The songs themselves are dynamic, referencing a cross-section of the last 30 years of electronic music, while simultaneously retaining a uniqueness all their own. The infamous Wierd Records weekly club night in New York, which showcased a variety of talented electronic and coldwave artists, served as an incubator for Void Vision in it’s early stages. After a standout debut performance at the club, they immediately caught the attention of Blind Prophet Records, who consequently released their first 7″ single, ‘In 20 Years’, which received excellent reviews. Vari has continued performing and recording steadily over the last few years, releasing songs on compilations for various labels, including Rough Trade, and in 2012 the song ‘Everything is Fine’ was selected for Artforum magazine’s ‘Best of 2012′ issue. In 2013, Void Vision toured the West Coast and later that year released a split 12″ with Portland-based band, Vice Device. The first official full-length album, entitled ‘Sub Rosa’ is set to debut on Berlin-based Mannequin Records, followed by a European tour in 2015. Shari Vari formed Void Vision in 2009 originally as a duo, during the explosion of the new minimal synth and cold wave scene in United States. Sharing the same scene of the Wierd Records associates like Led Er Est, Martial Canterel, Xeno & Oaklander, Automelodi, in 2010 VV released ‘In Twenty Years’ on Blind Prophet (Sean Ragon’s Cult Of Youth record label), receiving also the attention of the Rough Trade dudes, who asked to put out a track for one of their synth wave compilations. After other split vinyls, tapes and compilations, Mannequin approached Shari with the intention to continue what Wierd Records started, giving a proper shape to her beautiful and youthful dark electronic sound. The result is 10 hypnotic cold analog tracks dominated by the warm and fragile Shari’s voice, some more “pop orientated” some others belonging to the original “cold wave” atmosphere."
     },
     {
       "id": "231c1e12de2d2753790ade9ba85f957a",
       "name": "Turquoise Days",
-      "country": "UK"
+      "country": "UK",
+      "genre": "New Wave, Synth-pop",
+      "description": "Hailing from Jersey, Channel Islands, Turquoise Days was formed in 1981 by Luciano Brambilla and David Le Breton. Throughout the 1980s, they self-released many cassettes, as well as the renowned masterpiece Grey Skies / Blurred 7”. They were a runner up for a Radio Luxembourg song contest in 1985 with “Tonight” and had subsequent re-releases in 2009, 2017 and 2018. Their music can be described as melodic, emotive cold/minimal wave. David Le Breton and Luchie met at a nightclub on the surfers beach at St. Ouens, Jersey, called “Waves” that played alternative music at the peak of disco and MOR music. Luchie noticed that David’s black leather jacket had Killing Joke written on the back in white lettering went over and spoke to him about the band. After chatting they decided that they both had similar ideas and a passion for music and decided they to form a band and took their name from an Echo & the Bunnymen song. At this time they had a Hondo II electric guitar, a cheap bass guitar, some Casio keyboards (MT30 & VL Tone), a vintage microphone and various analogue effects. They decided that unlike other local bands they would initially perform only original music and no cover songs. Some covers such as “Julia’s Song” by OMD and “She’s lost control” and “ Love will tear us apart” by Joy Division as well as a Jean Michel-Jarre cover eventually entered their sets. They played many live gigs in Jersey starting with their own instrumental intro music “Fragments of glass (hide my eyes)” which had delayed Russian radio broadcasts incorporated and their own light show. Chris Petra the sound engineer then became the bass player contributing bass to later songs such as “scattering seeds” and “feed the flame” etc. Initially David used a kit synth called a Transcendent 2000 and then the band bought some Roland equipment namely two SH100 mono synths , a TR606 Drumatix drum machine and Juno 6 poly synth, and a Yamaha SK10 strings keyboard with an SM58 mike which these to record onto a reel to reel Sony TC377. Luchie acquired a Yamaha SG1000 and Fender Stratocastor guitar as well as various Ibanez and bus effects pedals played through a Vox AC30. At this time they had a Hondo II electric guitar, a cheap bass guitar, some Casio keyboards (MT30 & VL Tone), a vintage microphone and various analogue effects. They decided that unlike other local bands they would initially perform only original music and no cover songs. Some covers such as “Julia’s Song” by OMD and “She’s lost control” and “ Love will tear us apart” by Joy Division as well as a Jean Michel-Jarre cover eventually entered their sets. They played many live gigs in Jersey starting with their own instrumental intro music “Fragments of glass (hide my eyes)” which had delayed Russian radio broadcasts incorporated and their own light show. Chris Petra the sound engineer then became the bass player contributing bass to later songs such as “scattering seeds” and “feed the flame” etc. Initially David used a kit synth called a Transcendent 2000 and then the band bought some Roland equipment namely two SH100 mono synths , a TR606 Drumatix drum machine and Juno 6 poly synth, and a Yamaha SK10 strings keyboard with an SM58 mike which these to record onto a reel to reel Sony TC377. Luchie acquired a Yamaha SG1000 and Fender Stratocastor guitar as well as various Ibanez and bus effects pedals played through a Vox AC30. They recorded and released various cassettes namely Splintered Colours (81), Alternative Strategies (82), Valued Collection (83), The Sincerity Machine (84) andMoods (85) the 7” single “Grey Skies”/ “Blurred” on eight track using a hired Roland TR808 drum machine, unfortunately potential follow up songs such as “Tonight”, “Feed the flame”, “Hide’ and “Turning blue” were never released as singles. However, in the recent years, much has been re-released and is available on various digital platforms, vinyl and cassettes."
     },
     {
       "id": "9f8ada7f5d9b23f6ee43055645584275",
@@ -395,31 +438,35 @@
       "id": "a71125a3c3914efa5ebb9b48ec7e8875",
       "name": "Totentanz Strumpfsockig",
       "country": "D",
-      "description": "Musical group"
+      "genre": "Folk Metal",
+      "description": "Founded 2021 in Esslingen (Germany) \"Death and the devil play for you the music of dance. Let yourself be lured in by the numerous be-stockinged fiends, crazy and wild beguiling and infatuating. They will captivateyou with fairy song, bagpipe, harp, shakuhachi and flute, made manifest by a vibrant and sinister punk rock ensemblethat will feed the dark side of your soul.\""
     },
     {
       "id": "e0e52ea2de3d8cbadd16f357c46378cc",
       "name": "Arthuan Rebis",
       "country": "I",
-      "genre": "Artist",
-      "description": "Musical artist"
+      "genre": "Celtic, Folk, Medieval, Neo-Classical, New Age",
+      "description": "Alessandro Arturo Cucurnia (aka Arthuan Rebis) is a composer, multi-instrumentalist, harpist, writer, sound operator, international concert artist."
     },
     {
       "id": "0c60e0e953f8017c0888d91b25faca43",
       "name": "Vroudenspil",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Folk Rock",
+      "description": "Pirate Folk from Germany."
     },
     {
       "id": "6602e038e68723e86aec013cf835a235",
       "name": "Kupfergold",
-      "country": "D"
+      "country": "D",
+      "genre": "Folk, World, & Country"
     },
     {
       "id": "cd1c06e4da41121b7362540fbe8cd62c",
       "name": "Stahlmann",
-      "country": "D"
+      "country": "D",
+      "genre": "Rock",
+      "description": "A German Neue Deutsche Härte band that formed in Göttingen in 2008."
     },
     {
       "id": "23ff1c42312ad5b8bc6e43808e3c66b7",
@@ -429,7 +476,9 @@
     {
       "id": "3759d99006450cddf81cfc0d1bc35e93",
       "name": "Lovataraxx",
-      "country": "F"
+      "country": "F",
+      "genre": "Coldwave",
+      "description": "French coldwave / dark synth / DIY electro duo from Grenoble."
     },
     {
       "id": "b371a90a02b3b59ad67102d416201ea6",
@@ -440,76 +489,88 @@
       "id": "573d1b1ab7ba8e60118e4a3331e4e6a1",
       "name": "Balduvian Bears",
       "country": "USA",
-      "genre": "Artist",
-      "description": "Musical artist"
+      "genre": "Experimental"
     },
     {
       "id": "3d437671f4b2808ac39679246d25dda3",
       "name": "Night In Athens",
-      "country": "UK"
+      "country": "UK",
+      "genre": "EBM",
+      "description": "Musician and artist from Athens based in London. Diy art synth project started in 2020."
     },
     {
       "id": "d351305da15101130ba38d253fe3d1c1",
       "name": "Ann My Guard",
-      "country": "NL"
+      "country": "NL",
+      "genre": "Alternative Rock",
+      "description": "Female fronted Alternative Metal band from Hungary."
     },
     {
       "id": "4272f0f2e28856b74a4a6774d55a8758",
       "name": "Ashram",
-      "country": "I"
+      "country": "I",
+      "genre": "Trance, Techno"
     },
     {
       "id": "7386bc0fc4b9453a37ebe39b6883b219",
       "name": "Kiss The Anus Of A Black Cat",
       "country": "B",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Experimental",
+      "description": "Dark folk from Gent (Belgium), inspired by religious and shamanistic music and rituals. The name comes from a medieval witch ritual."
     },
     {
       "id": "a3a7c1b0c87edd3357abc7cbab368b88",
       "name": "Anke Hachfeld [Mila Mar]",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Folk, Ethereal",
+      "description": "Anke Hachfeld [Mila Mar] - Information from Discogs release database"
     },
     {
       "id": "096f9d5d65e2ffd0fcfd7a9b6b1494d8",
       "name": "Giant Crow",
-      "country": "D"
+      "country": "D",
+      "genre": "Country Rock, Country"
     },
     {
       "id": "f849c957f2c50579eb4d85c468427be5",
       "name": "Tristwch Y Fenywod",
       "country": "UK",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Experimental",
+      "description": "Welsh-language gothic avant-rock trio based in Leeds, UK. Members are Gwretsien Ferch Lisbeth, Leila Lygad and Sidni Sarffwraig."
     },
     {
       "id": "f62a95c25171543afbf8de2764df5a1d",
       "name": "Faetooth",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Doom Metal, Sludge Metal, Post-Metal",
+      "description": "Faetooth is a “fairy doom\" trio originating from Los Angeles. The group is composed of Ari May as guitarist and vocalist, Jenna Garcia as bassist and vocalist, and Rah Kanan on drums. Formed in 2019, the group sought to navigate personal vulnerability and musical experimentation by delving deep into the nature of self, the beauty inherent in the natural world, and the captivating mysteries that surround us. Drawing inspiration from doom metal, black metal, shoegaze, and sludge, the term \"fairy-doom\" aptly characterizes their distinctive fusion of sounds."
     },
     {
       "id": "fc31f5e2ceb6a2ee9ec213761aa00caf",
       "name": "Blazing Eternity",
-      "country": "DK"
+      "country": "DK",
+      "genre": "Goth Rock",
+      "description": "Black metal band which evolved to a dark rock band, formed in 1993 in Denmark. Used to be named \"Ancient Sadness\"."
     },
     {
       "id": "0c12da5fb58bfc10d8f6d2e6f28f50fd",
       "name": "Resplandor",
-      "country": "PE/NL"
+      "country": "PE/NL",
+      "genre": "Shoegaze",
+      "description": "Netherlands-based Resplandor is a band founded by Antonio Zelada. 'Tristeza', their latest album, is produced and mixed by Robin Guthrie, founder and songwriter of the legendary Cocteau Twins, who also produced and mixed their previous album 'Pleamar', both albums have been mastered by Simon Scott of Slowdive. Resplandor performed their latest album Tristeza being the opening act for The Cure in 2023 as part of The Cure's 'Shows Of A Lost World Tour 2023'. Resplandor has also played at festivals such as Grauzone Festival (The Hague, NL), Automatic Noise Festival (Amsterdam, NL), SXSW (Austin, USA), Culture Collide (Los Angeles, USA), Half Die Festival (Rome, IT), Veltrac Music Festival (Lima, PE) among others. The band will embark on a European tour during 2025. Resplandor has been the opening act and has played with The Cure, Slowdive, The Jesus & Mary Chain, The House Of Love, The Ocean Blue, The Radio Dept. among others. They have also toured Europe, South America and North America."
     },
     {
       "id": "922a7010bd95e72ec7635c5942c4a449",
       "name": "Midas Fall",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Shoegaze"
     },
     {
       "id": "03168ab0bd5ed4c8125c88ab3b02a8f2",
       "name": "In The Woods",
       "country": "N",
-      "genre": "Black Metal",
-      "description": "Band"
+      "genre": "Progressive Metal, Avantgarde, Atmospheric Black Metal",
+      "description": "The Norwegian band started out in 1990 as a death metal band called , but with the main composer and guitarist  leaving the band in favour of , the remaining members formed In the Woods... They began playing atmospheric black metal, but in 1997 (Omnio), their sound evolved into progressive/avant-garde metal.The band released a total of four studio albums, three singles and one compilation album throughout its initial existence, before disbanding in 2000. However, before quitting, they recorded a live performance (Live At The Caledonien Hall) that took place on 29th December 2000 in their hometown Kristiansand, capturing a three hour retrospective of the entire band's career. In June 2014 the core members Anders Kobro, X:Botteri and C.M. Botteri decided it was time to continue the band where it was left off in 2000. In 2015 the line-up for the new album was announced, featuring the core members and James Fogarty on vocals. The album \"Pure\" was released in September 2016 by Debemur Morti Productions. X:Botteri and C.M. Botteri left the band in 2016. The new album \"Cease The Day\" was released in November 2018 by Debemur Morti Productions with new guitarists Bernt Sørensen and Kare André Sletteberg. Line-up: Anders Kobro - Drums James Fogarty - Vocals, guitars, bass and keys Kare André Sletteberg - Guitars Bernt Sørensen - Guitars Nils Olav Drivdal - Bass Former Members: Oddvar A:M - Guitars (1991 - 2000) (R.I.P. 2013) Jan Kenneth Transeth - Vocals (1991 - 2000) Bjørn \"Berserk\" Harstad - Guitars (1996 - 2000) Synne \"Soprana\" Larsen - Vocals (1996 - 2000) Christer-André Cederberg - Guitars (1998 - 2000) C.M. Botteri - Bass (1991 - 2000, 2014 - 2016) X:Botteri - Guitars (1991 - 2000, 2014 - 2016)"
     },
     {
       "id": "a3e6115fc85d91de3878bacfd80dbea0",
@@ -519,27 +580,36 @@
     {
       "id": "d78bcaac146002037edd94626a00d060",
       "name": "Shrouds",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Industrial"
     },
     {
       "id": "b57859ba1abaebac6ad9e3121c84a708",
       "name": "Lucas Lanthier`s Cinema Strange",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Industrial",
+      "description": "Cinema Strange is a gothic/death rock band from Southern California, founded as a high school four piece in 1994. Their origins were rooted in the traditional death rock sounds of the 1980’s, inspired by acts such as the Sex Gang Children, Southern Death Cult, Bauhaus, and Christian Death. 1994 saw the release of their demo cassette featuring vocalist Lucas Lanthier, guitarist Colin O’Donnell, bassist Daniel Ribiat, and drummer Alex Restrepo. They would go on to simplify their lineup to two members, Lucas on vocals and Daniel on bass, with accompanied synths and drum machine to fill out their change in sound. This can be heard on their second cassette ‘Acrobat Amaranth Automaton’, released in 1996. Michael Ribiat, youngest sibling of Daniel, was playing keyboards in his own high school formed death rock band Vox ab Nihil along with vocalist James Powell, bass player Joshua Moreau, and drummer Danny Walker, while learning to play and add guitar to his repertoire. He would occasionally play guitar during Cinema Strange practices which would lead towards his addition in the band for three out of their four newer songs recorded for two separate 7” vinyl releases, as well as contributing keyboards for their cover of David Bowie’s ‘Time’ on the Cleopatra Records tribute compilation ‘Goth Oddity’ released in 1999. Cinema Strange, now a touring three-piece, would go on to sign with German record label Trisol, which saw the rerelease of their second cassette and two 7” vinyl records onto a singular self titled cd by the year 2000. This would be followed up by their album ‘The Astonished Eyes Of Evening’ released in 2002. In 2004 they would release a limited edition boxed set titled ‘A Cinema Strange 10th Anniversary Novelty Product’, which included their original 1994 demo, finally on cd, accompanied by a reworking of the same material with Michael now on guitar, and the addition of former Vox ab Nihil drummer Danny Walker to the group. A dvd home video release titled ‘Pressed Flowers / Squashed Blossoms’ followed in 2005. Including both a live show from 11/15/03 in Strasbourg, as well as a documentary directed by both Lucas Lanthier and former Cinema Strange drummer Alex Restrepo. Lucas would go on to start another music project known as The Deadfly Ensemble with former Vox ab Nihil vocalist James Powell on various instruments. In 2006 they would release their first album ‘An Entire Wardrobe Of Doubt And Uncertainty’ on Trisol. Also in 2006 Cinema Strange, now back to being a quartet, would release their album ‘Quatorze Exemples Authentiques Du Triomphe De La Musique Décorative’ on cd. This included a second disc of two short stories, both written and read by Lucas. Since their 2006 album release they have played live shows sporadically throughout the years. Lucas has continued to tour with his project The Deadfly Ensemble, also at times solo under just Lucas Lanthier. He has even performed entire shows of Cinema Strange material under variations of the name Lucas Lanthier and His Esteemed Colleagues."
     },
     {
       "id": "512a1e4bde5d9c3949612672fb95891a",
       "name": "Eva O.",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Goth Rock",
+      "description": "Guitarist and vocalist for several goth and punk bands. Formerly married to  and ."
     },
     {
       "id": "c15d401e7380b4ac09db839cc369da93",
       "name": "Fangs On Fur",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Post-Punk",
+      "description": "LA based female-fronted goth-punk/deathrock band."
     },
     {
       "id": "531ac363659e2b48c5794282bb6b32b4",
       "name": "Veljanov",
-      "country": "D"
+      "country": "D",
+      "genre": "Darkwave",
+      "description": "Alexander Veljanov (Northern Macedonian: Александар Вељанов) is a Northern Macedonian singer. He became famous through singing in the darkwave band Deine Lakaien which he founded with Ernst Horn in 1985."
     },
     {
       "id": "b549689b6e61e488dc4087527f392beb",
@@ -549,37 +619,42 @@
       "id": "41dff6cb80483b0c4408f47b9aa32875",
       "name": "Crimson Veil",
       "country": "UK",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Indie Rock"
     },
     {
       "id": "eb62af7492157c676fb8fc9692e83447",
       "name": "Xandria",
       "country": "D",
       "genre": "Symphonic Metal",
-      "description": "Band"
+      "description": "German mystic melancholic rock band founded by Marco Heubaum and Niki Weltz 1994 in Bielefeld. The band broke up in 1997, but was re-formed in 1999 by Marco Heubaum. Current lineup: Ambre Vourvahis - vocals (from 2022) Marco Heubaum - guitar and keyboards (former) Tim Schwarz - bass (from 2022) Rob Klawonn - guitar (from 2022) Dimitrios Gatsios - drums (from 2022) Old members: Philip Restemeier - guitar (from 2001-2019) Steven Wussow - bass (from 2013-2019) Gerit Lamm - drums (from 2000-2019) Dianne van Giersbergen - vocals (2013 - 2017) Manuela Kraller - vocals (2010 - 2013) Nils Middelhauve - bass (2004 - 2012) Kerstin \"Lakonia\" Bischof - vocals (2009 - 2010) Lisa Middelhauve - vocals (2000 and left on the 30 April 2008) Niki Weltz (1994 - 1997) Roland Krueger - bass (1999 - 2004)"
     },
     {
       "id": "534982fddde518d146945176d145cd12",
       "name": "Drab Majesty",
       "country": "USA",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Ambient",
+      "description": "Drab Majesty is the solo project of , the androgynous alter-ego of Los Angeles-based musician ."
     },
     {
       "id": "143af26de9d57bf624771616318aaf7c",
       "name": "Witt",
-      "country": "D"
+      "country": "D",
+      "genre": "Krautrock",
+      "description": "Design studio based in Hamburg. Owned by  and generally working on covers for Philips and Vertigo."
     },
     {
       "id": "50ab5192d58b8dc6fd76129ebc416238",
       "name": "Silke Bischoff",
-      "country": "D"
+      "country": "D",
+      "genre": "Euro House",
+      "description": "Felix Flaucher and Axel Kretschmann founded Silke Bischoff in 1990. Frank Schwer became the third permanent member later. When Axel Kretschmann quit in 2002 it came to a legal battle regarding the naming rights of Silke Bischoff. Flaucher and Schwer continued under the name . Felix Flaucher died on 23 August 2017 after a long illness. Silke Bischoff was the name of an 18 year old girl that was murdered by criminals after a bankrobbery and hostage crisis in Gladbeck (Germany) on the 18th August 1988."
     },
     {
       "id": "1da6407d4b67c0196e5076d3817ad491",
       "name": "Public Image Limited",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Alternative Rock",
+      "description": "Post-punk band, formed in London, 1978. Active until 1992; reformed 2009. Abbreviated as PiL."
     },
     {
       "id": "dbd9414e22c006289473493a6d1389f8",
@@ -590,30 +665,34 @@
       "id": "af2cd7cf14f5b9165b0b074aea349a21",
       "name": "Beborn Beton",
       "country": "D",
-      "genre": "Synthpop",
-      "description": "Band"
+      "genre": "Synth-pop",
+      "description": "German synthpop group, founded in 1989 in Essen (Germany)"
     },
     {
       "id": "747677bc2da67e70ff5c1a900b35fbab",
       "name": "Morphose",
-      "country": "D"
+      "country": "D",
+      "genre": "Ambient"
     },
     {
       "id": "f6237bec3009c68bfe45b6553f354fed",
       "name": "Anything Box",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Ambient"
     },
     {
       "id": "1bbdbbc1be9859edf9ae00fa9f2da113",
       "name": "Icon Of Coil",
       "country": "N",
-      "genre": "Electronic",
-      "description": "Musical band"
+      "genre": "EBM",
+      "description": "Icon of Coil is a Norwegian electronic music band. The band was established as a solo project in 1997 by Andy LaPlegua who was joined by former Sector 9 (now Moonitor and Zombie Girl) bandmate Sebastian Komor to perform live. With the release of Shallow Nation, the band's first single, Komor joined full-time. In 2000, Christian Lund joined the live lineup. Later that year the band's first full-length album, Serenity is the Devil, was released, which climbed to number one on the Deutsche Alternative Charts. Shortly thereafter, Lund became a full-time band member."
     },
     {
       "id": "ba628e6419eeafc36eda4cb2ca6e3492",
       "name": "Kalt",
-      "country": "F"
+      "country": "F",
+      "genre": "Darkwave",
+      "description": "KALT is a German gothic-rock project by composer, singer and guitarist Mike York founded in 2003. After 16 years he decided \"to let the old \"band name\" die\". The musical spectrum of KALT ranges from spheric-gloomy rock with strong rock influence to soundtrack like songs."
     },
     {
       "id": "3af2ee7fa80839fdd552e3f55c244ac7",
@@ -623,24 +702,30 @@
     {
       "id": "57e949565f9d4fc031ecac41915b25ef",
       "name": "Container 90",
-      "country": "S"
+      "country": "S",
+      "genre": "EBM",
+      "description": "From Sweden. In January 2004 Ron2-D2 and Rundberg met for the first time in 10 years. Both have a past in obscure ebm bands in the early 90's. A lot of booze later Container 90 was born. Container for it's weight and form and 90 for the old days."
     },
     {
       "id": "d37dc1d462431c21ab36855d98590bf2",
       "name": "The Invincible Spirit",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Coldwave",
+      "description": "Current band line-up includes Thomas Lüdke and his wife Anja Vorel on live keyboards."
     },
     {
       "id": "5d98c40222b27767c2639dd5d4f2cbbd",
       "name": "Calva Y Nada",
-      "country": "D"
+      "country": "D",
+      "genre": "EBM",
+      "description": "German electronic/avant-garde music project founded in 1990 by Constantin Warter."
     },
     {
       "id": "572fad4f58b156b713e8e6ff4c58cc5b",
       "name": "Ingrimm",
-      "country": "D"
+      "country": "D",
+      "genre": "Folk Metal, Folk Rock",
+      "description": "German Folk/Medieval Metal band from Regensburg, Bavaria. Formed in 2006."
     },
     {
       "id": "93ddc62e1b13b6ffbaf5faacf4a45a28",
@@ -649,21 +734,22 @@
     {
       "id": "48e2ca1c28ae9e7dadcda6ad935da2ed",
       "name": "Alvader",
-      "country": "NL"
+      "country": "NL",
+      "genre": "Folk Metal"
     },
     {
       "id": "d69462bef6601bb8d6e3ffda067399d9",
       "name": "Gernotshagen",
       "country": "D",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Black Metal",
+      "description": "Pagan- / Black metal band from Thuringia/Germany."
     },
     {
       "id": "f3d7662a9107de0635f647b83ae55566",
       "name": "Finntroll",
       "country": "FIN",
-      "genre": "Black Metal",
-      "description": "Band"
+      "genre": "Folk Metal, Black Metal",
+      "description": "A folk/black metal band from Helsinki, Finland. Finntroll was established in 1997 by Teemu \"Somnium\" Raimoranta (guitar) and Jan \"Katla\" Jämsen (vocals) who had the vision of fusing the darkness and grandeur of black metal with the traditional Finnish hoedown-music. Group's original line-up was completed in 1998 by Skrymer, Tundra, Trollhorn and Beast Dominator and their debut album \"Midnattens widunder\" was released in 1999. Altogether they have released six full lengths, the last one being 2013's \"Blodsvept\". Despite being a Finnish band, Finntroll chose to write their lyrics in Swedish due to their original vocalist Katla being Fenno-Swedish. In March 2003 Finntroll was struck by the tragic death of the guitarist Teemu \"Somnium\" Raimoranta. Current line-up: Tundra (Sami Uusitalo) – Bass (1998 - ) Skrymer (Samuli Ponsimaa) – Guitars (1998 - ) Trollhorn (Henri Sorvali) – Keyboards, Guitar (1998 - ) Routa (Mikael Karlbom) – Guitars (2003 - ) Vreth (Mathias Lillmåns) – Vocals (2006 - ) Virta (Aleksi Virta) – Keyboards (2009 - ) MörkÖ (Heikki Saari) – Drums (2014 - ) Past members: Ancient Lord (Mikael Harju) - Bass (1997-1998) Nattvind (Rauno Raimoranta) - Drums, keyboards (1997) Grönt Helvetes Kungen (Tomi Ullgrén) - Guitar (1997-1998) Somnium (Teemu Raimoranta) - Guitar (1997-2003) Katla (Jan Jämsen) - Vocals, keyboards (1997-2003) Beast Dominator (Samuel Ruotsalainen) - Drums (1998-2014) Tapio Wilska - Vocals (2002-2006)"
     },
     {
       "id": "f10f1ea9e6a334fe99c69ad0102908f9",
@@ -673,8 +759,8 @@
       "id": "f65d3d938f139227d9f22ad3d3a473df",
       "name": "Kalandra",
       "country": "N/S",
-      "genre": "Musician",
-      "description": "Czech musician"
+      "genre": "Pop, Folk, World, & Country",
+      "description": "Created in Oslo, Norway in 2012. Spearheaded by four Norwegian/Swedish musicians. The band has roots in melancholic Nordic folk and gritty guitars, weaving ethereal melodies into raw and eerie musical landscapes."
     },
     {
       "id": "281a836af1e09e8b25fdd84c5a882954",
@@ -684,34 +770,44 @@
     {
       "id": "833a28074b156b57b538cc1332589c7b",
       "name": "Hallowed Hearts",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Goth Rock",
+      "description": "Founded by singer Alex Virlios (Blue Images) and guitarist/producer Andrew Sega (Iris, The Alpha Conspiracy), Hallowed Hearts is releasing the band's debut single - \"Lost\". Inspired by post-goth bands like Pink Turns Blue, Fields of the Nephilim, and Drab Majesty, Hallowed Hearts combines angular guitars and moody lyrics with an atmospheric, three-dimensional sound. Their debut release, \"Lost\", is a driving, insistent meditation on love, loss, and the passage of time. Also featured is a shimmering cover of the 1989 cult-classic by Escape With Romeo, \"Somebody\"."
     },
     {
       "id": "733c98ccb843041211b866fe9a699faf",
       "name": "Sad Madona",
-      "country": "F"
+      "country": "F",
+      "genre": "Darkwave",
+      "description": "Sad Madona is a solo-project from Paris, France."
     },
     {
       "id": "4dda4f48c7a4b87d8295b482a567d511",
       "name": "Psyche",
-      "country": "CDN"
+      "country": "CDN",
+      "genre": "Tech House, Techno",
+      "description": "Born: May 22, 1969 in Detroit, United States"
     },
     {
       "id": "4a0b3fae795fdebddaa303ad85096ebd",
       "name": "Lone Assembly",
-      "country": "CH"
+      "country": "CH",
+      "genre": "New Wave",
+      "description": "Lone Assembly is a Swiss quartet blending new wave, romantic synthpop, and dark, melancholic post-punk. The lineup—Raphaël Bressler (vocals, keyboards), Glenn Le Meur (guitar), Jim Bodeman (bass), and Romain Segu (drums). Thunderous basslines and hypnotic rhythms intertwine with reverb-soaked guitars and atmospheric synths, creating a brooding soundscape for Raphaël's deep, resonant vocals."
     },
     {
       "id": "02e2007a30a2439074c584e125328e23",
       "name": "Soror Dolorosa",
       "country": "F",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Post-Punk",
+      "description": "Formerly from Toulouse (southern France), SOROR DOLOROSA was originally founded in 2001, with Andy (Nuit Noire, Mutiilation, Peste Noire, Celestia, Darvulia, Fornication) on drums, Franck (ex Funeraell) on guitar, Herve (ex Funeraell) on bass, and Christophe Guenot (ex Funeraell) on vocals. Herve came up with the name of SOROR DOLOROSA because of a novel titled \"Bruges-la-morte\" by Georges Rodenbach, a Flemish symbolist writer from the late 19th century. A novel marked by symbolism of nostalgia and mourning. SOROR DOLOROSA means \"Sister Pain\" in Latin, one could almost translate it as \"lovers of pain\" in a more Baudelaire way... The band recorded an unpublished demo, then the line-up changed in 2003 with the arrival of Emey (ex Contrast, Unscarred ...), who replaced Franck on guitar. Subsequently they recorded a second unpublished demo and did some gigs until they split in 2005. In August 2007 they reformed with the present line up. A month later, based on songs written by bassist Carles Herve, the band recorded a third unpublished demo whose content sounds definitely Gothic Rock and Death Rock, influenced by groups such as Christian Death, Bauhaus, and The Sisters of Mercy. From that time, Soror Dolorosa's style became more personal and they found an own identity as a band. The songs were now written by the four members together, though still mostly based on the bass guitar. They took on a Cold Wave colouring, more in line with bands such as The Cure or Human League, but also with hints of 70's rock like Deep Purple or Black Sabbath and retaining the Sisters of Mercy-like Gothic Rock influence. Soror Dolorosa made their first record appearance with \"American Chronicle\" in March 2008, on the free compilation \"Poisoned Dead Frogs\" (Manic Depression): http://www.manicdepressionrecords.com/frogs.php When the third demo was out on myspace, the group was contacted to release an EP through the British label Todestrieb Records. This 6 track EP, entitled \"Severance\", wasn't released until August 2009 due to production delays and is being distributed through underground ways, while the band promoted it with successful live performances all over France. Some time in 2009, through the help of Neige (Amesoeurs, Alcest), the band came in contact with Northern Silence Productions, who offered to release their upcoming albums on their newly founded sublabel Beneath Grey Skies, and subsequently produced the debut full length \"Blind Scenes\", recorded in August 2010 at Drudenhaus Studio. To use the band's own words: \"The album is quite cold, with misty blue moods. 'Blind Scenes' would rather be perceived as scenes unseen, that is to say, out of time and out of the real world. As a state of grace overshadowed by the inevitability of everyday life. The lyrics are heartfelt and talk about regrets, coldness, alcohol abuse, as well as forfeiture, but mostly nostalgia, hence the blue color of the music.\" That's also why they chose \"Drudenhaus Studio\" (CNK, Alcest, Les Discrets, Varsovie, Necroblaspheme), recommended by Neige, who described it as an ideal place to record their music. On the one hand because the studio is analog, and on the other hand because it is located in Brittany's countryside, isolated from the rest of the world, with compulsory rain in August. It was produced by Benoit Roux \"Mr. Xort\" (ex Anorexia Nervosa), who recorded additional keyboards. The album artwork & layout was done by Metastazis, who is one of the best illustrators/designers of the underground scene and worked for Alcest, Anathema, Antaeus, Enthroned, Forgotten Woods, Gorgoroth, Immolation, Secrets of the Moon, Taake, Listenable Records, Osmose Productions & Warner Bros. So, that's how Soror Dolorosa appear today, which is quite a feat, knowing their respective influences. Andy, as a drummer, has been marked by Black Metal and Metal in general but also by the likes of Human League, Fields of the Nephilim or Ulver's latest albums. Herve is a big fan of The Cure, Depeche Mode and Christian Death. Emey is somewhat influenced by Metallica, Satriani, Vai, but also Blues & Movie Soundtracks. Franck listens to bands as diverse as Iron Maiden, Bon Jovi or The French Variety, as well as Reggae, although he is primarily a Beatles fan. However, since the basics for their songs often come from bass riffs, the colour of the music naturally goes into the direction of Gothic/Death Rock and Cold Wave."
     },
     {
       "id": "1d4042750dd8d231fdc0d39ce58f664c",
       "name": "Escape With Romeo",
-      "country": "D"
+      "country": "D",
+      "genre": "Electro",
+      "description": "German indie rock/synth pop band founded in 1989 in Cologne."
     },
     {
       "id": "8fbb28f1334219a3ac918273f7690c4e",
@@ -724,110 +820,129 @@
       "id": "a277e254800234eeb726a345de2b4e5f",
       "name": "Saigon Blue Rain",
       "country": "F",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Coldwave",
+      "description": "Saigon Blue Rain is an ethereal/cold wave band from Paris, France, that was formed in September 2012 by  and . The band was formerly known as  and released a self-titled EP in March 2013. On June 8th, 2014 the band posted on their Facebook account that \"Stupid Bitch Reject becomes Saigon Blue Rain\". This duo combines its French roots with the typical wavey sounds that remind of classical post-punk/cold wave, such as The Cure or , melted with elements of ethereal wave (, Autumn, The Sensualists) and dreampop (e.g. )."
     },
     {
       "id": "9945003528c4ef2ca61e3cea99bb2250",
       "name": "Vkgoeswild",
-      "country": "UA"
+      "country": "UA",
+      "genre": "Pop"
     },
     {
       "id": "ae860b11ae80b4642e8a9fb24050b490",
       "name": "Skemer",
-      "country": "B"
+      "country": "B",
+      "genre": "Darkwave",
+      "description": "Skemer is cooperation between singer Kim Peers, who's also a model for Vogue, Steven Meisel, Prada, Dave Clarke etc., and guitarist Mathieu Vandekerckhove of post-metal band Amenra and his personal project Syndrome. Two very different worlds collide and lead to minimalist dark wave deconstructions that are equal parts brutal and erotic."
     },
     {
       "id": "92a2a0896f3ef8ba4ce2368a23836f10",
       "name": "Jakuzi",
       "country": "TR",
-      "genre": "Synthpop",
-      "description": "Band"
+      "genre": "Pop"
     },
     {
       "id": "88a9444a8827772b59b4ca7f61cb88e6",
       "name": "Patriarchy",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Darkwave"
     },
     {
       "id": "1ef78d40643f4e530d8742462c69449e",
       "name": "Light Asylum",
       "country": "USA",
-      "genre": "Darkwave",
-      "description": "Musical band"
+      "genre": "EBM",
+      "description": "American post punk/darkwave act founded in 2007 in Brooklyn, New York. Bruno Coviello left in 2012,  assumed keyboard touring duties in 2012-2013."
     },
     {
       "id": "23bcc024a0a6c53546d6fdd25b1673ee",
       "name": "Linea Aspera",
       "country": "AUS/UK",
-      "genre": "Electronic",
-      "description": "Electronic duo"
+      "genre": "Darkwave",
+      "description": "London-based Synth-pop/Dark Wave project, founded in 2011, disbanded in 2013. Reformed in 2019."
     },
     {
       "id": "023699fca54ef93f1d3be05bb9a9fa7d",
       "name": "Noisex",
-      "country": "D"
+      "country": "D",
+      "genre": "EBM",
+      "description": "Noisex is the name of a power noise and industrial music act from Germany, formed in 1990 by Raoul Roucka."
     },
     {
       "id": "080e22165203b5c3d7d8d46c6268e98a",
       "name": "Xotox",
-      "country": "D"
+      "country": "D",
+      "genre": "Industrial",
+      "description": "XOTOX (official capitalization) is a power noise/industrial/EBM project from Germany. Started by Andreas Davids in 1998."
     },
     {
       "id": "b35ef33f378d58502ae84288d791a463",
       "name": "Liebknecht",
-      "country": "D"
+      "country": "D",
+      "genre": "Electro, Techno"
     },
     {
       "id": "9dc73fe924bb17caae376ec76afa5d0d",
       "name": "Rhys Fulber",
       "country": "CDN",
-      "genre": "Electronic",
-      "description": "Canadian musician"
+      "genre": "Industrial",
+      "description": "Canadian electronic musician and producer. Based in Los Angeles, CA, US. Born October 10th, 1970."
     },
     {
       "id": "db5c9ed3e471212d45cdd6c321066d60",
       "name": "Klangstabil",
-      "country": "D"
+      "country": "D",
+      "genre": "EBM",
+      "description": "Electro-industrial project from Germany, formed in 1994 by  and ."
     },
     {
       "id": "d32f061033ed3864c079c82ee2e6e045",
       "name": "Bleib Modern",
-      "country": "D"
+      "country": "D",
+      "genre": "Darkwave",
+      "description": "Bleib Modern is a dark Post-Punk / Cold Wave band based in Berlin."
     },
     {
       "id": "97036da18452da08c0bbd821411df1bf",
       "name": "Deceits",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Goth Rock",
+      "description": "Melodic hardcore band from Herne/Bochum, Germany."
     },
     {
       "id": "7054b6f3ca314c758037dfda2432d39e",
       "name": "Silent Runners",
-      "country": "NL"
+      "country": "NL",
+      "genre": "Post-Punk",
+      "description": "Dutch post punk band."
     },
     {
       "id": "33981a59ed065b4fa9fe1b0e24230949",
       "name": "Plastique Noir",
-      "country": "BR"
+      "country": "BR",
+      "genre": "Coldwave",
+      "description": "Band from Brazil born in the end of 2005 / beginning of 2006 in Fortaleza, Brazil. Their music could be categorized as Post Punk, Gothic, Darkwave and Indie-Rock."
     },
     {
       "id": "216f70178e7f3577a557612c606b5993",
       "name": "Darkways",
       "country": "E",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Goth Rock",
+      "description": "from Barcelona (Spain) Darkways is a darkwave band from Barcelona, Spain, blending influences from rock and metal with a passion for exploring the realms of post-punk and synthesizer-based sounds.The band creates a captivating sonic landscape where darkwave sensibilities meet the nostalgic echoes of vintage electronic soundscapes."
     },
     {
       "id": "f2ea9a7dfdcaaac59523b2babe7d018e",
       "name": "French Police",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Experimental"
     },
     {
       "id": "b0ab75d3f09f8edf3579ea58aae3571b",
       "name": "This Cold Night",
       "country": "USA",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "Darkwave",
+      "description": "This Cold Night is the musical project of  from Austin, Texas (USA). The music could be categorized as post-punk, coldwave and darkwave. Email: thiscoldnight@gmail.com Former Facebook: www.facebook.com/thiscoldnight"
     },
     {
       "id": "26d62c17c1bda3adecc4c5b136ac0318",
@@ -851,92 +966,103 @@
       "id": "8227ff91b5086c88e66f991aa6f0371b",
       "name": "The 69 Eyes",
       "country": "FIN",
-      "genre": "Rock",
-      "description": "Rock band"
+      "genre": "Goth Rock",
+      "description": "Rock band formed in Helsinki, Finland in 1989. Initially their style was glam metal and hard rock, however later works began to incorporate elements of gothic rock."
     },
     {
       "id": "98f5c5baf32215e003244fcf2cace66a",
       "name": "Camouflage",
       "country": "D",
-      "genre": "Synthpop",
-      "description": "Pop trio"
+      "genre": "Synth-pop",
+      "description": "German Synth-pop band from Bietigheim-Bissingen. The four friends Heiko Maile, Oliver Kreyssig, Marcus Meyn and Martin Kähling (who left the band in 1984) founded the band \"Lizenenced Technology\" in 1983. Drawing on inspiration from the song of the same name by the Japanese group \",\" the band changed their name to \"Camouflage.\" The first local live appearance took place in 1984. One year later they recorded two demo cassettes in their studio and sent these cassettes to several record companies. In 1986 one of these tapes was submitted for a talent search conducted by the Hessischen Rundfunk (Hessen Radio). Camouflage was awarded the first place and the small Frankfurt record label \"Westside\" became aware of the band. The song \"The Great Commandment,\" was reworked, newly recorded and presented to the larger record companies. Suddenly several firms expressed interest and after careful consideration the band signed with ."
     },
     {
       "id": "191cfb6f9caecb6571a1782954e8205e",
       "name": "New Model Army",
       "country": "UK",
-      "genre": "Rock",
-      "description": "Rock band"
+      "genre": "Post-Punk",
+      "description": "With their roots embedded in the early punk era, New Model Army were formed in Bradford, Yorkshire, England, in 1980, and immediately outlined their manifesto by naming themselves after the Sir Thomas Fairfax/Oliver Cromwell revolutionary army. The group was led by Justin \"Slade The Leveller\" Sullivan (b. 1956, Buckinghamshire, England; guitar, vocals), a former platform sweeper and Mars bar production-line worker, with the help of Stuart Morrow (b. 1966, Bradford, England) on bass guitar and Phil Tomkins on drums. Within a few months, Tompkins had been replaced on drums by Rob Waddington, and this line-up remained unchanged until the summer of 1982, when Waddington left the band and was replaced by Robert \"Robb\" Heaton (b. 1962, Cheshire, England d. Nov. 4th, 2004), a former drum technician and occasional drummer for the band Hawkwind. This line-up remained together until Morrow left the band for personal reasons, during the band's \"No Rest\" tour, the day after a concert in their home town of Bradford. Which was coincidentally the day of the Bradford disaster, May 11th, 1985 He was replaced on bass in the summer by Jason \"Moose\" Harris (b. 1968). Their brand of punk folk/rock attracted a loyal cult following, much of which shared the band's grievances towards the Tory government policies of the 80s. This was best executed on their debut album, which combined militant themes such as \"Spirit Of The Falklands\" and \"Vengeance\" (a vitriolic anthem about getting even with one's trespassers) with the haunting lament for childhood, \"A Liberal Education\". The group's championing of traditional working-class ethics saw an unexpected boost for a dying art and trade - that of the clog. New Model Army made their first public appearance at Scamps Disco in Bradford in October 1980. After releasing singles on Abstract Records, enjoying a number 2 UK independent chart hit with \"The Price\" in 1984, they formed an unlikely alliance with the multinational EMI Records, which saw the band acquire a higher profile and a significantly increased recording budget. They eventually broke through to a wider audience with \"No Rest\", which peaked at number 28 on the UK singles chart in 1985 - a position they were never to beat in an impressive run of 12 UK chart singles between 1985 and 1991. With often inflammatory lyrics, the band have never compromised their beliefs for commercial gain. They ran into trouble with BBC Television's Top Of The Pops show for donning T-shirts with the (albeit laudable) slogan, \"Only Stupid Bastards Use Heroin\". This attracted some derision from \"anarcho-punk\" traditionalists , who replied with their own motif: \"Only Stupid Bastards Help EMI\". They subsequently continued to release high-quality albums, with considerable crossover potential, always maintaining credibility with their original fanbase. In December 1991 the group left EMI, eventually finding a new home on Epic Records. Their first single for the label revealed few concessions to the mainstream: \"Here Comes The War\" featured a picture of a charred body, and a pull-out poster instructing the user in how to prepare a nuclear bomb. In 1994, a dance remix of \"Vengeance' was released as a protest against the Criminal Justice Bill. After a lengthy absence the band reconvened for 1998's \"Strange Brotherhood\". New Model Army's short spell with Epic ended as quickly as it started with the band preferring to self publish and go back to their roots. By 2000 their most recent studio album was ready. Named \"Eight\" it included a now familiar, though no less effective, formula and energy. They continue to release new material and tour as of 2023."
     },
     {
       "id": "510ddd5524ab16d583d8b7317a55f474",
       "name": "Protokoll 19",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Darkwave",
+      "description": "Floridian Dark Industrial Duo."
     },
     {
       "id": "1a1a2554ec1a79500fb68b972ba44ed6",
       "name": "Torul",
       "country": "SLO",
-      "genre": "Band",
-      "description": "Musical band"
+      "genre": "EBM",
+      "description": "Started as solo artist by , later formed as a band with the members: , , "
     },
     {
       "id": "f0520a57e6e312d5917bfd2a3a943b35",
       "name": "Vomito Negro",
       "country": "B",
-      "genre": "Electronic",
-      "description": "Band"
+      "genre": "EBM",
+      "description": "Belgian electronic band formed in 1983."
     },
     {
       "id": "71c982b9a58f293b1b3778705e67574b",
       "name": "Chrom",
-      "country": "D"
+      "country": "D",
+      "genre": "Techno"
     },
     {
       "id": "e82f40d2f4df9dd006ff8557e0f85691",
       "name": "Orange Sector",
       "country": "D",
       "genre": "EBM",
-      "description": "Band"
+      "description": "German EBM band founded in 1992 in Hannover."
     },
     {
       "id": "2e8850d6645fff92c503e26b88ab61c3",
       "name": "A Cloud Of Ravens",
       "country": "USA",
-      "genre": "Rock",
-      "description": "Rock duo"
+      "genre": "Darkwave",
+      "description": "Post-punk band hailing from Brooklyn, New York, United States. Contact: acloudofravens@gmail.com"
     },
     {
       "id": "87ba7b5c0de45056bb36cd27d80b072c",
       "name": "Future Nobodies",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Goth Rock"
     },
     {
       "id": "1e7c41955052e131a4f4e6d82161dc01",
       "name": "The Exploding Boy",
-      "country": "S"
+      "country": "S",
+      "genre": "Goth Rock",
+      "description": "Postpunk indie band from Stockholm, Sweden. Founded in 2006 and named after a song from The Cure. Contact: E-Mail: theexplodingboyofficial@gmail.com"
     },
     {
       "id": "bab198e4a30f6eeb50756bfbb0579227",
       "name": "The Membranes",
       "country": "UK",
       "genre": "Post-Punk",
-      "description": "Band"
+      "description": "Angular post-punk band from the Blackpool area."
     },
     {
       "id": "54331b9b16e65e2658e391486720d69f",
       "name": "Delva",
-      "country": "D"
+      "country": "D",
+      "genre": "House, Latin, Reggaeton",
+      "description": "French singer and comedian, born on May 15, 1986 in Bar-Le -Duc (France) She became famous with performing in several french musical comedies (Romeo & Juliette, Cendrillon, Dracula, Robin Des Bois...) She's also known as the french voice of Elsa in Disney's Frozen"
     },
     {
       "id": "bc77f9a10f311a432c65bdd4c56eca7f",
       "name": "Vermaledeyt",
-      "country": "D"
+      "country": "D",
+      "genre": "Folk, World, & Country"
     },
     {
       "id": "8403aed2db8164a17046f4d61a8e8e77",
       "name": "Haggefugg",
-      "country": "D"
+      "country": "D",
+      "genre": "Folk Rock, Folk Metal",
+      "description": "Folk Rock band hailing from Cologne, Germany. Founded Jan. 2015."
     },
     {
       "id": "de26f58f2892752a1c10cadcee7388ec",
@@ -946,91 +1072,108 @@
       "id": "259e1392c7248aa73739b0d44ed805a9",
       "name": "Letzte Instanz",
       "country": "D",
-      "genre": "Punk",
-      "description": "Rock band"
+      "genre": "Alternative Rock",
+      "description": "Letzte Instanz, founded in Dresden, Germany in 1996 (rising from the ashes of their former band Resistance), is a German Mittelalter rock band particularly noted for their use of the violin and cello. The founding members included Hörbi, Tin Whistle, Muttis Stolz, Kaspar Wichman, Holly D. and Markus G-Punkt. Do not confuse with the neonazi band Letzte Instanz (2)."
     },
     {
       "id": "ac47baa2169b8473568fe45652c24bf8",
       "name": "Deus Ex Lumina",
       "country": "ARG/D",
-      "genre": "Artist",
-      "description": "Musical artist"
+      "genre": "Dark Electro",
+      "description": "Berlin based darkwave project of Buenos Aires born Gonzalo Schwindt."
     },
     {
       "id": "8ad41aa0f71854f2aee6b67300ccd420",
       "name": "Henric De La Cour",
-      "country": "S"
+      "country": "S",
+      "genre": "Post-Punk",
+      "description": "Swedish composer, musician and singer, born October 8, 1974 in Eskilstuna Klosters parish in Södermanland County. He has been a singer in the groups Yvonne and Strip Music. In the autumn of 2011, he released his first solo album, which Dagens Nyheter gave 4 out of 5 in ratings and described as \"an epic declaration of love for the darkness filled with rain, rust and romance that breathes in time with the machines' pulsating beats\". Henric de la Cour has recorded videos for the solo songs \"Dogs\", \"Dracula\", \"My machine\" and \"Grenade\". As a solo artist, he has collaborated with artists such as Andreas Tilliander and Agent Side Grinder. Henric de la Cour belongs to the French-born Danish family la Cour's Swedish branch. He is the son of Paul de la Cour, the grandson of Hroar de la Cour and second cousin of ."
     },
     {
       "id": "cc87aa9f484bf88cd9db2f9c8deb8916",
       "name": "Black Nail Cabaret",
       "country": "H",
-      "description": "Musical duo"
+      "genre": "Darkwave",
+      "description": "Black Nail Cabaret is a pop noir duo, from Hungary. Formed in 2008, the group consists of Emese Arvai-Illes (vocals) and Krisztian Arvai (keyboards). The band, which was formed in Budapest, but was later based in London for several years, originally started with Sophie Tarr (keyboards) who left the band in 2016 to pursue her own music project. They described their style as visual synthpop or synth noir, with experimental tones in some of the songs."
     },
     {
       "id": "3d09ea3d53516ab906a53ae0bb938943",
       "name": "Stahlnetz",
-      "country": "D"
+      "country": "D",
+      "genre": "Industrial",
+      "description": "German power-electronics project."
     },
     {
       "id": "39841b789f8c4837496688100c4c3efd",
       "name": "Lucifer Star Machine",
-      "country": "D"
+      "country": "D",
+      "genre": "Garage Rock, Punk, Hard Rock",
+      "description": "Rock/Punk band formed in 2002 in London by . In 2012 Tor moved back to his home country of Germany, whilst the rest of the band remained in England. Over time the logistics proved to be too difficult, so he decided to give the band a fresh start. Since Autumn 2014, Lucifer Star Machine is now based in Germany, with band members being located in Hamburg, Brunswick and Fulda."
     },
     {
       "id": "d95995a43e371aec2c7f4df40f7fdc42",
       "name": "Dark Ride",
-      "country": "USA"
+      "country": "USA",
+      "genre": "Darkwave"
     },
     {
       "id": "065266d69f062ec2f65000fbc443babb",
       "name": "Zombina And The Skeletones",
       "country": "UK",
-      "genre": "Punk",
-      "description": "Rock band"
+      "genre": "Punk, Psychobilly",
+      "description": "Horror pop rock punk band from Liverpool, UK formed in 1998"
     },
     {
       "id": "2369803b80bf00925dbfdae202d393e7",
       "name": "Long Tall Texans",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Psychobilly",
+      "description": "Psychobilly / Rockabilly band from Brighton, UK."
     },
     {
       "id": "ffc59bd768d00cc390ee33007833eb81",
       "name": "Nim Vind",
       "country": "CDN",
-      "genre": "Punk",
-      "description": "Musical band"
+      "genre": "Punk, Psychobilly",
+      "description": "Horror Punk/Gothic Rock band from Vancouver, British Columbia."
     },
     {
       "id": "ff332e46405212a70a15eb2e5b4037b4",
       "name": "Mode In Gliany",
-      "country": "BZH"
+      "country": "BZH",
+      "genre": "Darkwave"
     },
     {
       "id": "293f2bd2a800eb08f306b43506383b4d",
       "name": "Sturle Dagsland",
-      "country": "N"
+      "country": "N",
+      "genre": "Ambient",
+      "description": "Brother of ."
     },
     {
       "id": "1c72dac6197c1660c719c4ecad7d74f0",
       "name": "Cut Hands",
-      "country": "UK"
+      "country": "UK",
+      "genre": "Experimental"
     },
     {
       "id": "b411aa827c064877860f16c3cdc3d1b9",
       "name": "Mona Mur & En Esch",
-      "country": "D"
+      "country": "D",
+      "genre": "Industrial",
+      "description": "Mona Mur (born 1960 in Hamburg, Germany) first entered the music scene in 1982, collaborating with members of Einstürzende Neubauten to form \"Mona Mur & Die Mieter\" (translated \"Mona Mur & The Tenants\"). The band consisted of Gode B., Mark Chung, FM Einheit, Alexander Von Borsig and Mona Mur. They released one 12\", titled \"Jeszcze Polska\" which immediately became \"Single of the Week\" in London's NME. After this, Mona Mur & Die Mieter disbanded, and Mur emerged into a solo career. From 1984 to 1986 she played live shows with a backing band consisting of F.M. Einheit, Alexander Von Borsig, Nikkolai Weidemann, Tomas Stern and Siewert Johannsen, with Raymond Watts working as sound engineer. This line up recorded an album in Watts' Hamburg studio which was shelved at the time and did not get released in its entirety until 2022. Mur then went on to collaborate with producer Dieter Meier to work on her 1988 self-titled debut for RCA. A follow-up album, \"Warsaw\", was recorded in 1990, but went unreleased at the time. After this, Mona decided to take a break from singing, and turned her energy to taekwondo, achieving 3rd dan. She entered the German national team and became international German vice champion twice. In 1996, she become a composer and audio designer for video games and films. She went on to release a 20 year, career-spanning retrospective compilation, entitled \"Into Your Eye\". Mona Mur is now back to singing and performing live, as well as continuing her composing and sound design work for both film and games, such as \"Gegen die Wand\" by Fatih Akın or \"Kane & Lynch 2: Dog Days\". She is one of thre very few women with international recognition in this field. Since 2007, she collaborates with En Esch (ex-KMFDM) with whom she toured the US, Canada and Europe and released two albums. In 2019, she released another solo album written and produced together with Ralf Goldkind (\"Lucilectric\", \"Fantastische 4\"). Other collaborators include poet/writer/photographer Miron Zownir and long time companion F.M. Einheit."
     },
     {
       "id": "1d518b7c2e383a766be63bf35fb3152d",
       "name": "Shortparis",
       "country": "RUS",
       "genre": "Experimental",
-      "description": "Musical band"
+      "description": "Russian experimental band from St. Petersburg, formed in 2012. The music of Shortparis combines irrational, spastic dance grooves with theatrical performances and exalted vocals in Russian, French and English. The band poses itself as an opposition to the modern musical scene. Current lineup: Nikolai Komyagin (Николай Комягин) - vocals (since start, 2012-present), synthesizer (2022-present) Alexander Ionin (Александр Ионин) - bass, guitar, bayan (since start, 2012-present) Pavel Lesnikov (Павел Лесников) - drums, sampling (since start, 2012-present) Danila Kholodkov (Данила Холодков) - percussion, drums (2012-present), backing vocals (2018-present), bass (2023-present) Former members: Alexander Galyanov (Александр Гальянов) - synthesizer, guitar, backing vocals (2014-2022)"
     },
     {
       "id": "ab95492f5a66c1557125e384f2cee6bd",
-      "name": "Vielle"
+      "name": "Vielle",
+      "genre": "Post-Punk"
     },
     {
       "id": "6cc0c9b8482b9d099c84caa8c72ffc40",
