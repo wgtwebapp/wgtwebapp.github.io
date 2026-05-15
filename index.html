@@ -1,52 +1,55 @@
 <!DOCTYPE html>
-<html lang="en" style="background-color: #111827;">
+<html lang="en" style="background-color: #0a0b10;">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Wave-Gotik-Treffen Festival Guide - Your personal festival schedule maker" />
   <link rel="icon" type="image/svg+xml" href="/assets/favicon-B_x_NwUV.svg" />
-  <meta name="theme-color" content="#000000" />
+  <meta name="theme-color" content="#050508" />
   <title>WGT web app</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&display=swap" rel="stylesheet" />
   
   <!-- Inline critical CSS for skeleton loading -->
   <style>
-    body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; }
-    .skeleton-app { min-height: 100vh; display: flex; flex-direction: column; background-color: #111827; color: white; }
-    .skeleton-header { background-color: #1f2937; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); position: sticky; top: 0; z-index: 50; }
+    body { margin: 0; font-family: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, sans-serif; }
+    .skeleton-app { min-height: 100vh; display: flex; flex-direction: column; background-color: #0a0b10; color: #e5e7eb; }
+    .skeleton-header { background-color: #12131a; border-bottom: 1px solid rgba(255,255,255,0.08); box-shadow: 0 4px 24px rgba(0, 0, 0, 0.35); position: sticky; top: 0; z-index: 50; }
     .skeleton-container { max-width: 1200px; margin: 0 auto; padding: 0 1rem; }
     .skeleton-header-content { padding: 1rem 0; display: flex; flex-direction: column; }
     .skeleton-brand { display: flex; align-items: center; margin-bottom: 1rem; }
-    .skeleton-logo { width: 2rem; height: 2rem; background-color: #374151; border-radius: 0.25rem; margin-right: 0.75rem; display: none; }
-    .skeleton-title { height: 2rem; background-color: #374151; border-radius: 0.25rem; width: 8rem; }
+    .skeleton-logo { width: 2rem; height: 2rem; background-color: #2d2f3d; border-radius: 0.35rem; margin-right: 0.75rem; display: none; }
+    .skeleton-title { height: 2rem; background-color: #2d2f3d; border-radius: 0.35rem; width: 8rem; }
     .skeleton-nav { display: flex; align-items: center; gap: 1.5rem; }
     .skeleton-nav-list { display: flex; gap: 1.5rem; list-style: none; margin: 0; padding: 0; }
-    .skeleton-nav-item { height: 1.25rem; background-color: #374151; border-radius: 0.25rem; }
+    .skeleton-nav-item { height: 1.25rem; background-color: #2d2f3d; border-radius: 0.25rem; }
     .skeleton-nav-item:nth-child(1) { width: 3rem; }
     .skeleton-nav-item:nth-child(2) { width: 4rem; }
     .skeleton-nav-item:nth-child(3) { width: 4rem; }
-    .skeleton-update-btn { width: 2.25rem; height: 2.25rem; background-color: #374151; border-radius: 0.375rem; }
+    .skeleton-update-btn { width: 2.25rem; height: 2.25rem; background-color: #2d2f3d; border-radius: 0.375rem; }
     .skeleton-main { flex-grow: 1; padding: 2rem 0; }
     .skeleton-content { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
-    .skeleton-card { background-color: #1f2937; padding: 1rem; border-radius: 0.5rem; margin-bottom: 0.5rem; }
+    .skeleton-card { background-color: #1a1b26; padding: 1rem; border-radius: 0.75rem; border: 1px solid rgba(255,255,255,0.08); margin-bottom: 0.5rem; }
     .skeleton-card-header { display: flex; justify-content: space-between; align-items: flex-start; }
     .skeleton-card-content { flex: 1; }
-    .skeleton-band-name { height: 1.5rem; background-color: #374151; border-radius: 0.25rem; width: 75%; margin-bottom: 0.5rem; }
-    .skeleton-genre { height: 1rem; background-color: #374151; border-radius: 0.25rem; width: 50%; margin-bottom: 0.75rem; }
-    .skeleton-favorite { height: 1.5rem; width: 1.5rem; background-color: #374151; border-radius: 0.25rem; }
+    .skeleton-band-name { height: 1.5rem; background-color: #2d2f3d; border-radius: 0.25rem; width: 75%; margin-bottom: 0.5rem; }
+    .skeleton-genre { height: 1rem; background-color: #2d2f3d; border-radius: 0.25rem; width: 50%; margin-bottom: 0.75rem; }
+    .skeleton-favorite { height: 1.5rem; width: 1.5rem; background-color: #2d2f3d; border-radius: 0.25rem; }
     .skeleton-details { margin-top: 0.75rem; }
     .skeleton-detail-row { display: flex; align-items: center; margin-bottom: 0.5rem; }
-    .skeleton-detail-label { width: 5rem; height: 1rem; background-color: #374151; border-radius: 0.25rem; margin-right: 1rem; }
-    .skeleton-detail-value { height: 1rem; background-color: #374151; border-radius: 0.25rem; }
+    .skeleton-detail-label { width: 5rem; height: 1rem; background-color: #2d2f3d; border-radius: 0.25rem; margin-right: 1rem; }
+    .skeleton-detail-value { height: 1rem; background-color: #2d2f3d; border-radius: 0.25rem; }
     .skeleton-detail-value:nth-child(2) { width: 6rem; }
     .skeleton-detail-value:nth-child(3) { width: 8rem; }
     .skeleton-detail-value:nth-child(4) { width: 10rem; }
-    .skeleton-address { margin-left: 5rem; height: 0.75rem; background-color: #374151; border-radius: 0.25rem; width: 14rem; }
-    .skeleton-footer { background-color: #1f2937; color: #9ca3af; padding: 1.5rem 0; margin-top: auto; text-align: center; }
-    .skeleton-footer-text { height: 1rem; background-color: #374151; border-radius: 0.25rem; margin: 0 auto 0.5rem; }
+    .skeleton-address { margin-left: 5rem; height: 0.75rem; background-color: #2d2f3d; border-radius: 0.25rem; width: 14rem; }
+    .skeleton-footer { background-color: #12131a; border-top: 1px solid rgba(255,255,255,0.08); color: #9ca3af; padding: 1.5rem 0; margin-top: auto; text-align: center; }
+    .skeleton-footer-text { height: 1rem; background-color: #2d2f3d; border-radius: 0.25rem; margin: 0 auto 0.5rem; }
     .skeleton-footer-text:first-child { width: 16rem; }
     .skeleton-footer-text:last-child { width: 12rem; }
     .skeleton-loading-msg { text-align: center; margin-top: 2rem; }
-    .skeleton-loading-text { height: 1rem; background-color: #374151; border-radius: 0.25rem; width: 12rem; margin: 0 auto 0.5rem; }
+    .skeleton-loading-text { height: 1rem; background-color: #2d2f3d; border-radius: 0.25rem; width: 12rem; margin: 0 auto 0.5rem; }
     @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
     @media (min-width: 768px) {
       .skeleton-header-content { flex-direction: row; justify-content: space-between; align-items: center; }
@@ -81,10 +84,10 @@
     }(window.location))
   </script>
   <!-- End Single Page Apps for GitHub Pages -->
-  <script type="module" crossorigin src="/assets/main-C0PUO4gX.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/main-DNzqG4p8.css">
+  <script type="module" crossorigin src="/assets/main-DW_3rlbk.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/main-DA8_vYbI.css">
 <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
-<body class="bg-gray-900 text-white">
+<body style="margin:0;background-color:#0a0b10;color:#e5e7eb;">
   <div id="app">
     <!-- Prerendered skeleton content shown before JS loads -->
     <div class="skeleton-app">
