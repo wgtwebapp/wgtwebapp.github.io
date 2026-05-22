@@ -1,0 +1,52 @@
+{
+  "agra": {
+    "address": "Bornaische Straße 210",
+    "lat": 51.2851,
+    "lng": 12.3937
+  },
+  "Felsenkeller": {
+    "address": "Karl-Heine-Straße 32",
+    "lat": 51.3328,
+    "lng": 12.3385
+  },
+  "Haus Leipzig": {
+    "address": "Elsterstraße 22",
+    "lat": 51.3405,
+    "lng": 12.3648
+  },
+  "Heidnisches Dorf / Torhaus Dölitz": {
+    "address": "Helenenstraße 24",
+    "lat": 51.2875,
+    "lng": 12.3877
+  },
+  "Moritzbastei": {
+    "address": "Universitätsstraße 9",
+    "lat": 51.3373,
+    "lng": 12.3791
+  },
+  "Peterskirche": {
+    "address": "Schletterstraße 5",
+    "lat": 51.3306,
+    "lng": 12.3759
+  },
+  "Stadtbad": {
+    "address": "Eutritzscher Straße 21",
+    "lat": 51.3522,
+    "lng": 12.3759
+  },
+  "Täubchenthal": {
+    "address": "Wachsmuthstraße 1",
+    "lat": 51.3247,
+    "lng": 12.3304
+  },
+  "Volkspalast": {
+    "address": "Messehalle 16, Puschstraße 10",
+    "lat": 51.316,
+    "lng": 12.4
+  },
+  "Parkschloß": {
+    "address": "Im Dölitzer Holz 20",
+    "lat": 51.2851,
+    "lng": 12.3822
+  }
+}
